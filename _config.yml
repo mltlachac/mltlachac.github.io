@@ -83,7 +83,7 @@ author:
   name             : "ML Tlachac"
   avatar           : "tlachac.jpg"
   bio              : "Data Science PhD Candidate"
-  location         : "WPI"
+  location         : #"WPI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=VBm0NeAAAAAJ"
