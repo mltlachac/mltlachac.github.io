@@ -11,7 +11,7 @@ title                    : "ML Tlachac"
 title_separator          : "-"
 name                     : &name "ML Tlachac"
 description              : &description "Data Science PhD Candidate at WPI"
-url                      : https://mltlachac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mltlachac.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mltlachac/mltlachac.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ML Tlachac"
   avatar           : "tlachac.png"
-  bio              : "Data Science PhD Candidate at WPI"
+  bio              : "Data Science PhD Candidate"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/mltlachac/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6634-678X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
