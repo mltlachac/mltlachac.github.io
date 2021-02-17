@@ -9,11 +9,11 @@ Please see publications for conference talks associated with published papers.
 
 ## Invited Talks
 
-[7] ML Tlachac, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
+[8] ML Tlachac, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
 
-[6] M Jutras, J Shankar, ML Tlachac, “Demystifying the Role of Women in Data Science”, Data Science Panel, Women in Data Science (WiDS) Central Massachusetts Conference, WPI, 2020
+[7] M Jutras, J Shankar, ML Tlachac, “Demystifying the Role of Women in Data Science”, Data Science Panel, Women in Data Science (WiDS) Central Massachusetts Conference, WPI, 2020
 
-[6] ML Tlachac, " ", Girls Robotics, Office of Pre-Collegiate Outreach Programs, WPI, 2019
+[6] ML Tlachac, "Experience of a Data Science PhD Candidate", Girls Robotics, Office of Pre-Collegiate Outreach Programs, WPI, 2019
 
 [5] ML Tlachac, “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
 
