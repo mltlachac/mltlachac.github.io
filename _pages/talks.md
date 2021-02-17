@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Please see publications for conference talks associated with published papers.
+Please see Publications for conference talks associated with published papers.
 
 ## Invited Talks
 
