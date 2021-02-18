@@ -29,4 +29,4 @@ author_profile: true
 
 # Abstract
 
-[1] K Beaulac, **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, S Doron, “Utilization of  Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends”, SHEA Spring 2018 Conference: Science Guiding Prevention, the Society for Healthcare Epidemiology of America, 2018
+[1] K Beaulac, **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, S Doron, “Utilization of  Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends”, SHEA Spring 2018 Conference: Science Guiding Prevention, the Society for Healthcare Epidemiology of America, 2018 (best abstract, 5 awarded)
