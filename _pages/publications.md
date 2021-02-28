@@ -27,7 +27,7 @@ author_profile: true
 
 [1] D Bevan, D Levin, P Nugent, J Pantone, L Pudwell, M Riehl, **ML Tlachac**, [“Pattern Avoidance in Forests of Binary Shrubs”](https://arxiv.org/pdf/1510.08036.pdf), Discrete Mathematics and Theoretical Computer Science, vol 18(2), pp 1-22, 2016
 
-# Conference Abstracts
+## Conference Abstracts
 
 [6] **ML Tlachac**, E Rundensteiner, “The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages”, IEEE Conference on Biomedical and Health Informatics (BHI), 2019 (poster presentation)
 
