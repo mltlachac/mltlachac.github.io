@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with published papers or abstracts.
+Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with published papers or conference abstracts.
 
 ## Invited Talks
 
@@ -25,12 +25,12 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 ## Miscellaneous Talks
 
-Annual Graduate Research Innovation Exchange, WPI \n
-•	“Transfer Learning for Depression Screening with Text Messages”, 2021 (5 min talk) \n
-•	“Patient Text Message Data Generation”, 2020 (poster) \n
-•	“Predicting Mental Health from Smartphone Text Messages”, 2019 (poster) \n
-•	“Tackling the Antibiotic Resistance Crisis using Longitudinal Massachusetts Antibiogram Data”, 2018 (poster) \n
+Annual Graduate Research Innovation Exchange, WPI
+*	“Transfer Learning for Depression Screening with Text Messages”, 2021 (5 min talk)
+*	“Patient Text Message Data Generation”, 2020 (poster)
+*	“Predicting Mental Health from Smartphone Text Messages”, 2019 (poster)
+*	“Tackling the Antibiotic Resistance Crisis using Longitudinal Massachusetts Antibiogram Data”, 2018 (poster)
 
-Annual Three Minute Thesis (3MT) Competition, WPI \n
-•	“Text Generation with Signal Retention for Depression Screening”, 2020 \n
-•	“Predicting Depression from Retrospectively Harvested Smartphone Data”, 2019
+Annual Three Minute Thesis (3MT) Competition, WPI
+*	“Text Generation with Signal Retention for Depression Screening”, 2020
+*	“Predicting Depression from Retrospectively Harvested Smartphone Data”, 2019
