@@ -5,7 +5,7 @@ permalink: /mentoring/
 author_profile: true
 ---
 
-My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Since 2018, I've mentored team of students on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI: 
+My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Since 2018, I've mentored student teams on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI: 
 * Kratika Agrawal (grad), Karthika Suresh (postgrad), Matthew Dzwil (undergrad), Junying Li (grad), "Text Generation, Anonymization, and Visualization", directed research, A-D terms, 2020-2021
 * Rimsha Kayastha, Veronica Melican, Hunter Caouette, Conner Bruneau, Miranda Reisch, “Mental Health with Machine Learning”, Undergraduate Computer Science and Data Science Major Qualifying Project, A-C terms, 2020-2021
 * Rimsha Kayastha, Joshua Lovering, Nina Taurich, “Emotion Mental Health Uncovering”, Research Experience for Undergraduates, Summer 2020
