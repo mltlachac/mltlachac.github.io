@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Conference and Journal Papers
+
 [11] **ML Tlachac**, A Sargent, E Toto, R Paffenroth, E Rundensteiner, [“Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection”](https://ieeexplore.ieee.org/abstract/document/9356319), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020 (10 min talk)
 
 [10] E Toto, **ML Tlachac**, F Stevens, E Rundensteiner, [“Audio-based Depression Screening using Sliding Window Sub-clip Pooling”](https://ieeexplore.ieee.org/abstract/document/9356263), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020
