@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Departmental Service
-* Data Science Student Council Member (2019) and First President (2020+), WPI
+* Data Science Student Council Member (2019) and President (2020+), WPI
 * Women in Data Science (WiDS) Central MA Conference Organizer, WPI, 2019-2021
 
 ## Wellness Advocacy
 * Graduate Student Representative on the WPI Student Well-being Planning Group, 2020+, 10+ hours
-* WPI Student Representative at the [Graduate Student Mental Health and Wellbeing Workshop](https://cgsnet.org/graduate-student-mental-health-and-wellbeing-workshop-lays-groundwork-future-action, Council of Graduate Schools, 2020, 9.5 hours
+* WPI Student Representative at the [Graduate Student Mental Health and Wellbeing Workshop](https://cgsnet.org/graduate-student-mental-health-and-wellbeing-workshop-lays-groundwork-future-action), Council of Graduate Schools, 2020, 9.5 hours
 * Leaders Engaging in Advocacy and Diversity Program, WPI, 2020, 5 hours 
 * [Bringing in the Bystander Facilitator](https://www.wpi.edu/news/save-offers-students-training-preventing-sexual-assault), WPI, 2019-2020, 15.5 hours
 * [Body Project Peer Educator](https://www.bodyprojectcollaborative.com/), WPI/Oregon Research Institute, 2018, 27 hours
