@@ -7,6 +7,12 @@ author_profile: true
 
 ## Conference and Journal Papers
 
+[14] **ML Tlachac**, V Melican, M Reisch, E Rundensteiner, “Mobile Depression Screening with Time Series of Text Logs and Call Logs”, 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021
+
+[13] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, “Screening for Suicidal Ideation with Text Messages”, 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021
+
+[12] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible", 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Accepted
+
 [11] **ML Tlachac**, A Sargent, E Toto, R Paffenroth, E Rundensteiner, [“Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection”](https://ieeexplore.ieee.org/abstract/document/9356319), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020 (10 min talk)
 
 [10] E Toto, **ML Tlachac**, F Stevens, E Rundensteiner, [“Audio-based Depression Screening using Sliding Window Sub-clip Pooling”](https://ieeexplore.ieee.org/abstract/document/9356263), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020
@@ -30,6 +36,8 @@ author_profile: true
 [1] D Bevan, D Levin, P Nugent, J Pantone, L Pudwell, M Riehl, **ML Tlachac**, [“Pattern Avoidance in Forests of Binary Shrubs”](https://arxiv.org/pdf/1510.08036.pdf), Discrete Mathematics and Theoretical Computer Science, vol 18(2), pp 1-22, 2016
 
 ## Conference Abstracts
+
+[7] M Shah, **ML Tlachac**, Benjamin Litterer, Saitheeraj Thatigotla, Nick Jurovich, Elke Rundensteiner, "Improving Lexical Category Features for Depression Screening with Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2021
 
 [6] **ML Tlachac**, E Rundensteiner, “The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages”, IEEE Conference on Biomedical and Health Informatics (BHI), 2019 (poster presentation)
 
