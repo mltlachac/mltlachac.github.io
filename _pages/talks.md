@@ -9,6 +9,8 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 ## Invited Talks
 
+[8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, “Student Mental Health”, Critical Conversations Series, 2021
+
 [7] **ML Tlachac**, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
 
 [6] M Jutras, J Shankar, **ML Tlachac**, “Demystifying the Role of Women in Data Science”, Data Science Panel, Women in Data Science (WiDS) Central Massachusetts Conference, WPI, 2020
@@ -32,5 +34,6 @@ Annual Graduate Research Innovation Exchange, WPI
 *	“Tackling the Antibiotic Resistance Crisis using Longitudinal Massachusetts Antibiogram Data”, 2018 (poster)
 
 Annual Three Minute Thesis (3MT) Competition, WPI
-*	“Text Generation with Signal Retention for Depression Screening”, 2020
-*	“Predicting Depression from Retrospectively Harvested Smartphone Data”, 2019
+* "Improving Depression Screening with Text Messages", 2021
+*	"Text Generation with Signal Retention for Depression Screening", 2020
+*	"Predicting Depression from Retrospectively Harvested Smartphone Data", 2019
