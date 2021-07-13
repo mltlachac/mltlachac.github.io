@@ -7,9 +7,9 @@ author_profile: true
 
 ## Conference and Journal Papers
 
-[14] **ML Tlachac**, V Melican, M Reisch, E Rundensteiner, “Mobile Depression Screening with Time Series of Text Logs and Call Logs”, 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021
+[14] **ML Tlachac**, V Melican, M Reisch, E Rundensteiner, “Mobile Depression Screening with Time Series of Text Logs and Call Logs”, 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
 
-[13] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, “Screening for Suicidal Ideation with Text Messages”, 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021
+[13] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, “Screening for Suicidal Ideation with Text Messages”, 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
 
 [12] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible", 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Accepted
 
