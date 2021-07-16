@@ -7,7 +7,9 @@ author_profile: true
 
 Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with published papers or conference abstracts.
 
-## Invited Talks
+## Invited & Campus Talks
+
+[9] **ML Tlachac**, “Developing a Professional Poster: My Poster Evolution”, Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2021
 
 [8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, “Student Mental Health”, Critical Conversations Series, 2021
 
@@ -25,7 +27,7 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 [1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
 
-## Miscellaneous Talks
+## Research Presentations
 
 Annual Graduate Research Innovation Exchange, WPI
 *	“Transfer Learning for Depression Screening with Text Messages”, 2021 (5 min talk)
@@ -37,3 +39,8 @@ Annual Three Minute Thesis (3MT) Competition, WPI
 * "Improving Depression Screening with Text Messages", 2021
 *	"Text Generation with Signal Retention for Depression Screening", 2020
 *	"Predicting Depression from Retrospectively Harvested Smartphone Data", 2019
+
+Annual Sustainability Project Competition, WPI
+* [“Mobile Data Collections for Mental Illness Screening”](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/1/395/files/2020/04/TlachacPoster2020-reduced.pdf), 2021 (poster)
+*	[“Depression Screening with Text Messages”](https://wp.wpi.edu/sustainability-competition13/mobile-data-collections-for-mental-illness-screening/), 2020 (poster)
+
