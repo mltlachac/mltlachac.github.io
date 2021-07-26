@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "ML Tlachac"
-  avatar           : "tlachac.jpg"
+  avatar           : !["Professional headshot of ML Tlachac"]("tlachac.jpg")
   bio              : "Data Science PhD Candidate"
   location         : #"WPI"
   employer         :
