@@ -41,6 +41,5 @@ Annual Three Minute Thesis (3MT) Competition, WPI
 *	"Predicting Depression from Retrospectively Harvested Smartphone Data", 2019
 
 Annual Sustainability Project Competition, WPI
-* [“Mobile Data Collections for Mental Illness Screening”](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/1/395/files/2020/04/TlachacPoster2020-reduced.pdf), 2021 (poster)
-*	[“Depression Screening with Text Messages”](https://wp.wpi.edu/sustainability-competition13/mobile-data-collections-for-mental-illness-screening/), 2020 (poster)
-
+* [“Mobile Data Collections for Mental Illness Screening”](https://wp.wpi.edu/sustainability-competition13/mobile-data-collections-for-mental-illness-screening/), 2021 (poster)
+*	[“Depression Screening with Text Messages”](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/1/395/files/2020/04/TlachacPoster2020-reduced.pdf), 2020 (poster)
