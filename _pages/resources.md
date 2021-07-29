@@ -60,6 +60,16 @@ author_profile: true
 * Used to schedule jobs on cloud computing clusters
 * Examples at the end demonstrate how to request resources
 
+[Mental Health Numeric Facts From the National Alliance of Mental Illness](https://www.nami.org/mhstats)
+* Over 20 percent of US adults experience mental illness
+* Less than half of US adults with mental illnesses recieve treatment annually
+* "The average delay between onset of mental illness symptoms and treatment is 11 years"
+* Great examples of infographics
+
+[Healthy Minds Study](https://healthymindsnetwork.org/)
+* Annual survey of undergraduate and graduate students focusing on mental health
+* Useful reports released with overview of mental health on campuses
+
 ## Respectful & Inclusive Language
 
 [Inclusive Language Guide](https://www.usca.edu/diversity-initiatives/training-resources/guide-to-inclusive-language/inclusive-language-guide/file)
@@ -97,7 +107,7 @@ author_profile: true
 * Include *select all that apply*, *don't know*,  *prefer not to answer*, and/or *self-identify* options to be inclusive
 * Collect detailed responses and then aggregate as needed for analysis or participant privacy
 
-## Podcasts Reccomendations
+## Podcast Reccomendations
 
 * [The Quadcast](https://marychristieinstitute.org/quadcast/) discusses mental health in academia from a research perspective
 * [Grad Chat](https://www.phdbalance.com/grad-chat) discusses "maintaining mental health and balance in grad school"
