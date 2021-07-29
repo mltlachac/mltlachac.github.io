@@ -97,3 +97,16 @@ author_profile: true
 * Include *select all that apply*, *don't know*,  *prefer not to answer*, and/or *self-identify* options to be inclusive
 * Collect detailed responses and then aggregate as needed for analysis or participant privacy
 
+## Podcasts Reccomendations
+
+* [The Quadcast](https://marychristieinstitute.org/quadcast/) discusses mental health in academia from a research perspective
+* [Grad Chat](https://www.phdbalance.com/grad-chat) discusses "maintaining mental health and balance in grad school"
+* [Voices of Academia](https://voicesofacademia.com/podcast/) provides a platform for academics to talk about mental health in academia
+* [Amplify Voices](https://www.amplifyvoices.io/) involves conversations with nationally-renowned leaders
+* [People I (Mostly) Admire](https://freakonomics.com/pima/) is a Freakonomics podcast interviewing a wide array of guests
+* [No Stupid Questions](https://freakonomics.com/nsq/) is a Freakonomics podcast where a journalist and a research psychologist ask each other challenging questions
+* [NLP Highlights](https://nlphighlights.allennlp.org/) discusses recent research in natural lanaguage processing
+* [The Professor Is In](https://theprofessorisin.com/podcast/) for all things PhD from grad school applications to job applications
+* [Hello PhD](http://hellophd.com/) includes "late-night conversations about life and lab"
+* [Embodied](https://www.wunc.org/podcast/embodied-podcast) covers intimate topics about health and wellness
+
