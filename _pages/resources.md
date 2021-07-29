@@ -91,7 +91,7 @@ author_profile: true
 * Gendered language can be exclusive
 
 [Microaggression Examples](https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)
-* Intentional or unintentional communications that create unfriendly environments for members of margenalized groups
+* Microagressions are intentional or unintentional communications that create unfriendly environments for members of margenalized groups
 
 [Inclusive Data Collection](https://go.arizona.edu/assessment-research/assets/Inclusive-and-Functional-Demographic-Questions_2019.pdf) 
 * Include *select all that apply*, *don't know*,  *prefer not to answer*, and/or *self-identify* options to be inclusive
