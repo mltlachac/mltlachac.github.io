@@ -22,7 +22,7 @@ author_profile: true
 [matplotlib for plot creation](https://matplotlib.org/stable/gallery/index.html)
 * Code examples for many types of plots
 * Plots are very customizable
-* Plots should have x-axis labels, y-axis labels, titles, and legends if applicable
+* Plots should have x axis labels, y axis labels, titles, and legends if applicable
 
 ## Other Tools & Tutorials
 [LaTeX Tutorial on Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
@@ -31,7 +31,7 @@ author_profile: true
 * There are many math symbols for creation of mathematical equations
 [Citations with BibTex](https://www.andy-roberts.net/writing/latex/bibliographies)
 * Can set citation key at the start of the BibTeX entry
-* Add BibTeX entries to the BibTex database and *\cite{key}* in the LaTeX document
+* Add BibTeX entries to the BibTex database and then cite in the LaTeX document
 * Specify bibliography style with a single command
 [Google Scholar Guide](https://paperpile.com/g/google-scholar-guide/)
 * BibTex entries are available for all articles on Google Scholar 
