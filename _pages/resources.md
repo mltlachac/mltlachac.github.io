@@ -37,9 +37,9 @@ author_profile: true
 * Most conferences and journals will have a template to use
 * There are many math symbols for creation of mathematical equations
 
-[Citations with BibTex](https://www.andy-roberts.net/writing/latex/bibliographies)
+[Citations with BibTeX](https://www.andy-roberts.net/writing/latex/bibliographies)
 * Can set citation key at the start of the BibTeX entry
-* Add BibTeX entries to the BibTex database and then cite in the LaTeX document
+* Add BibTeX entries to the BibTeX database and then cite with the key in the LaTeX document
 * Specify bibliography style with a single command
 
 [Google Scholar Guide](https://paperpile.com/g/google-scholar-guide/)
