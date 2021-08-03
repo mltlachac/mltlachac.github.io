@@ -32,6 +32,14 @@ author_profile: true
 
 ## Other Tools & Tutorials
 
+[Creating Accessible Presentations](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations/)
+* Animations (including slide transitions and GIFs) can trigger nausea, headaches, dizziness, and seizures
+* High contrast font and do not use color as only differentiator
+* Define everything and at least occasionally spell out acronyms
+
+[ColorBrewer: color advice tool for plots](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+* Can filter by colorblind and photocopy safe color schemes
+
 [LaTeX Tutorial on Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * Online collaborative LaTeX document creator for academic papers
 * Most conferences and journals will have a template to use
@@ -49,9 +57,6 @@ author_profile: true
 
 [Abstract Writing Guide](https://www.ldeo.columbia.edu/~martins/sen_sem/how_to_abstract.html)
 * 6 parts: overview, unknown, approach, results, takeaways, implication
-
-[ColorBrewer: color advice tool for plots](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-* Can filter by colorblind and photocopy safe color schemes
 
 [Important Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 * Commands to add, commit, and push files in git
