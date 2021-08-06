@@ -40,6 +40,10 @@ author_profile: true
 [ColorBrewer: color advice tool for plots](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 * Can filter by colorblind and photocopy safe color schemes
 
+[Dr Chris Marten's Tips for Reading Papers with ADHD](https://lambdamaphone.blogspot.com/2021/08/reading-academic-papers-while-having.html)
+* "ADHD manifests very differently for different people"
+* Tips include tending to your enviornment, clarifying your intention, preprocessing, and conversing
+
 [LaTeX Tutorial on Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * Online collaborative LaTeX document creator for academic papers
 * Most conferences and journals will have a template to use
@@ -75,6 +79,10 @@ author_profile: true
 * Annual survey of undergraduate and graduate students focusing on mental health
 * Useful reports released with overview of mental health on campuses
 
+[Inclusive Data Collection](https://go.arizona.edu/assessment-research/assets/Inclusive-and-Functional-Demographic-Questions_2019.pdf) 
+* Include *select all that apply*, *don't know*,  *prefer not to answer*, and/or *self-identify* options to be inclusive
+* Collect detailed responses and then aggregate as needed for analysis or participant privacy
+
 ## Respectful & Inclusive Language
 
 [Inclusive Language Guide](https://www.usca.edu/diversity-initiatives/training-resources/guide-to-inclusive-language/inclusive-language-guide/file)
@@ -107,10 +115,6 @@ author_profile: true
 
 [Microaggression Examples](https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)
 * Microagressions are intentional or unintentional communications that create unfriendly environments for members of margenalized groups
-
-[Inclusive Data Collection](https://go.arizona.edu/assessment-research/assets/Inclusive-and-Functional-Demographic-Questions_2019.pdf) 
-* Include *select all that apply*, *don't know*,  *prefer not to answer*, and/or *self-identify* options to be inclusive
-* Collect detailed responses and then aggregate as needed for analysis or participant privacy
 
 ## Podcast Reccomendations
 
