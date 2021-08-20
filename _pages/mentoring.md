@@ -15,6 +15,7 @@ My first research mentoring experience was for [Math 380: Research Methods in Ma
 * Adonay Resom, Jerry Assan, Maurice Flannery, Yufei Gao, Yuxin Wu, [“Machine Learning for Mental Health Detection”](https://digital.wpi.edu/concern/student_works/9306t094r?locale=en), Undergraduate Computer Science Major Qualifying Project, A-C terms, 2018-2019
 
 ## Training
+* [Project Advising 101: Early Career Faculty Workshop](https://www.wpi.edu/news/announcements/project-advising-101-early-career-faculty-workshop), WPI, 2021
 * [Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/), Northeastern University, 2020
 * [Fundamentals of Scientific Teaching and Pedagogy](https://canvas.wpi.edu/courses/8536/assignments/syllabus), WPI, 2020
 * [Supporting WPI in Effective and Equitable Teamwork Squad](https://www.wpi.edu/academics/global-school/departments-programs-offices/sweet-center), WPI, 2019
