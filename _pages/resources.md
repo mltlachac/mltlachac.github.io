@@ -19,11 +19,14 @@ author_profile: true
 [scikit-learn algorithm visualization](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * Visual overview of classification, clustering, regression, and dimensionality reduction techniques
 
-[Tabular Data with pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+[Tabular data with pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
 * DataFrame examples and DataFrame methods
 
-[pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+[Pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 * Provides overview of pandas capabilities with examples
+
+[Combining panda dataframes](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)
+* examples of merging, joining, and concatenating dataframes
 
 [matplotlib for plot creation](https://matplotlib.org/stable/gallery/index.html)
 * Code examples for many types of plots
