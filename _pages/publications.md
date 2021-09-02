@@ -11,7 +11,7 @@ author_profile: true
 
 [13] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, [“Screening for Suicidal Ideation with Text Messages”](https://ieeexplore.ieee.org/abstract/document/9508486), 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
 
-[12] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible", 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Accepted
+[12] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Accepted
 
 [11] **ML Tlachac**, A Sargent, E Toto, R Paffenroth, E Rundensteiner, [“Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection”](https://ieeexplore.ieee.org/abstract/document/9356319), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020 (10 min talk)
 
