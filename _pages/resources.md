@@ -131,4 +131,5 @@ author_profile: true
 * [The Professor Is In](https://theprofessorisin.com/podcast/) for all things PhD from grad school applications to job applications
 * [Hello PhD](http://hellophd.com/) includes "late-night conversations about life and lab"
 * [Embodied](https://www.wunc.org/podcast/embodied-podcast) covers intimate topics about health and wellness
+* [The Happiness Lab](https://www.happinesslab.fm/) discusses the science behind happiness
 
