@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference and Journal Papers
 
-[17] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://github.com/mltlachac/EMU), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021
+[17] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://github.com/mltlachac/EMU), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021 ([15 min talk](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/EMU.mp4))
 
 [16] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Depression Screening Using Deep Learning on Follow-up Questions in Clinical Interviews”, 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
 
