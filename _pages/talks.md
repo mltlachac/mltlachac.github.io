@@ -9,9 +9,9 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 ## Invited & Campus Talks
 
-[9] **ML Tlachac**, “Developing a Professional Poster: My Poster Evolution”, Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2021
+[9] **ML Tlachac**, [“Developing a Professional Poster: My Poster Evolution”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2021.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2021
 
-[8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, “Student Mental Health”, Critical Conversations Series, 2021
+[8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, [“Student Mental Health”](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), Critical Conversations Series, 2021
 
 [7] **ML Tlachac**, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
 
