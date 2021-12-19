@@ -13,9 +13,9 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 [8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, [“Student Mental Health”](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), Critical Conversations Series, 2021
 
-[7] **ML Tlachac**, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
+[7] **ML Tlachac**, [“Screening for Depression with Retrospectively Harvested Private versus Public Text”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPresFL2020.pdf), [Graduate Colloquium](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/AnnouncementFL2020.pdf), Florida State Online ACM Computer Club, 2020
 
-[6] M Jutras, J Shankar, **ML Tlachac**, “Demystifying the Role of Women in Data Science”, Data Science Panel, Women in Data Science (WiDS) Central Massachusetts Conference, WPI, 2020
+[6] M Jutras, J Shankar, **ML Tlachac**, “Demystifying the Role of Women in Data Science”, Data Science Panel, [Women in Data Science (WiDS) Central Massachusetts Conference](https://www.widscentralmass.org/), WPI, 2020
 
 [5] **ML Tlachac**, “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
 
