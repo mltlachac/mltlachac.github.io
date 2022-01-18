@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Mentor
 My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Since 2018, I've mentored 30+ students on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI. The student teams I've mentored on this project include:
-* Katie Houskeeper, Dante Amicarella, Matthew Dzwil, "Named Entity Recognition", Undergraduate Directed Research, B-C terms, 2021-2022
+* Katie Houskeeper, Dante Amicarella, Matthew Dzwil, "Named Entity Recognition", Undergraduate Independent Study, B-C terms, 2021-2022
 * Mairéad O’Neill, Nicholas Jurovich, Madeline Halley, Jyalu Wu, Brian Phillips, Lillian Garfinkel, “Deep Learning for Mental Health Screening using Smartphone Data”, Undergraduate Computer Science and Data Science Major Qualifying Project, A-C terms, 2021-2022
 * Miranda Reisch (grad), Saskia Senn (grad), Soumya Joshi (postgrad), "Depression Classification with Transcripts", Directed Research, Summer-D term, 2021-2022
 * Nicholas Jurovich, Benjamin Litterer, Mahum Shah, Saitheeraj Thatigotla, “Passive Depression Screening with Text,” Research Experience for Undergraduates, Summer 2021
