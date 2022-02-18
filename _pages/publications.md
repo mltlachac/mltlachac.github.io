@@ -11,7 +11,7 @@ author_profile: true
 
 [16] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Depression Screening Using Deep Learning on Follow-up Questions in Clinical Interviews”, 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
 
-[15] E Toto, **ML Tlachac**, E Rundensteiner, [“AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening”](https://dl.acm.org/doi/abs/10.1145/3459637.3481895), 30th ACM International Conference on Information and Knowledge Management (CIKM) Applied Research Track, 2021 (**best applied paper**)
+[15] E Toto, **ML Tlachac**, E Rundensteiner, [“AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening”](https://dl.acm.org/doi/abs/10.1145/3459637.3481895), 30th ACM International Conference on Information and Knowledge Management (CIKM) Applied Research Track, 2021 (**best applied paper**; [Google Colab](https://colab.research.google.com/drive/1g_smMt_-qQZyq5EaXBEo8XBu2KrvhDLI?usp=sharing))
 
 [14] **ML Tlachac**, V Melican, M Reisch, E Rundensteiner, ["Mobile Depression Screening with Time Series of Text Logs and Call Logs"](https://ieeexplore.ieee.org/abstract/document/9508582), 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
 
