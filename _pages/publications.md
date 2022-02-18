@@ -7,9 +7,9 @@ author_profile: true
 
 ## Conference and Journal Papers
 
-[17] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://github.com/mltlachac/EMU), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021 ([15 min talk](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/presentationEMU.pdf))
+[17] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://ieeexplore.ieee.org/abstract/document/9680143), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021 ([15 min talk](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/presentationEMU.pdf))
 
-[16] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Depression Screening Using Deep Learning on Follow-up Questions in Clinical Interviews”, 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
+[16] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Depression Screening Using Deep Learning on Follow-up Questions in Clinical Interviews”](https://ieeexplore.ieee.org/abstract/document/9680200), 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
 
 [15] E Toto, **ML Tlachac**, E Rundensteiner, [“AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening”](https://dl.acm.org/doi/abs/10.1145/3459637.3481895), 30th ACM International Conference on Information and Knowledge Management (CIKM) Applied Research Track, 2021 (**best applied paper**; [Google Colab](https://colab.research.google.com/drive/1g_smMt_-qQZyq5EaXBEo8XBu2KrvhDLI?usp=sharing))
 
