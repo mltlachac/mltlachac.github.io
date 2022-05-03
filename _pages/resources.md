@@ -107,29 +107,12 @@ author_profile: true
 * Gender words include woman, man, nonbinary, etc
 * Queer is reclaimed word that can refer to sexual and gender identities that are outside of heteronormative assumptions
 
-[Pronoun Guide for Allies](https://lgbtqia.ucdavis.edu/guide-pronouns-allies)
-* Do not force people to *out* themselves by asking for pronouns in group settings
-* People may use different names and pronouns in different contexts
-
 [Pronoun Examples](https://lgbtqia.ucdavis.edu/educated/pronouns)
-* There are many pronouns and some people may use multiple pronouns
-* Not everyone uses pronouns
+* There are many pronouns and some people may use multiple or no pronouns
+* People may use different names and pronouns in different contexts
 * Gendered language can be exclusive
 
 [Microaggression Examples](https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)
 * Microagressions are intentional or unintentional communications that create unfriendly environments for members of margenalized groups
 
-## Podcast Reccomendations
-
-* [The Quadcast](https://marychristieinstitute.org/quadcast/) discusses mental health in academia from a research perspective
-* [Grad Chat](https://www.phdbalance.com/grad-chat) discusses "maintaining mental health and balance in grad school"
-* [Voices of Academia](https://voicesofacademia.com/podcast/) provides a platform for academics to talk about mental health in academia
-* [Amplify Voices](https://www.amplifyvoices.io/) involves conversations with nationally-renowned leaders
-* [People I (Mostly) Admire](https://freakonomics.com/pima/) is a Freakonomics podcast interviewing a wide array of guests
-* [No Stupid Questions](https://freakonomics.com/nsq/) is a Freakonomics podcast where a journalist and a research psychologist ask each other challenging questions
-* [NLP Highlights](https://nlphighlights.allennlp.org/) discusses recent research in natural lanaguage processing
-* [The Professor Is In](https://theprofessorisin.com/podcast/) for all things PhD from grad school applications to job applications
-* [Hello PhD](http://hellophd.com/) includes "late-night conversations about life and lab"
-* [Embodied](https://www.wunc.org/podcast/embodied-podcast) covers intimate topics about health and wellness
-* [The Happiness Lab](https://www.happinesslab.fm/) discusses the science behind happiness
 
