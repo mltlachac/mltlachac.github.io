@@ -43,6 +43,8 @@ author_profile: true
 
 ## Conference Abstracts
 
+[8] P Hart-Brinson, **ML Tlachac**, E Lepien, “Paths to Asexual Citizenship Under Conditions of Compulsory Sexuality: An Intersectional Approach”, Midwest Sociological Society Annual Meeting, 2022
+
 [7] M Shah, **ML Tlachac**, B Litterer, S Thatigotla, N Jurovich, E Rundensteiner, "Improving Lexical Category Features for Depression Screening with Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2021
 
 [6] **ML Tlachac**, E Rundensteiner, "The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2019 (poster presentation)
