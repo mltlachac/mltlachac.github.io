@@ -10,7 +10,7 @@ author_profile: true
 * WPI Assistant Director of Student Success search committee, Fall 2021
 
 ## Departmental Service
-* Data Science Student Council Member (2019) and President (2020+), WPI
+* Data Science Student Council Member (2019-2020) and President (2020-2021), WPI
 * [Women in Data Science (WiDS) Central Massachusetts](https://www.widscentralmass.org/) Conference Organizer, WPI, 2019-2021
 
 ## Wellness Advocacy
