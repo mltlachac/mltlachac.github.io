@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at Worcester Polytechnic Institute with an expected graduation May 2022. My PhD research is part of the [Emutivo](https://emutivo.wpi.edu) project advised by Prof Elke Rundensteiner. Specifically, my research involves screening for mental illnesses with text data collected using mobile applications. My research interests include machine learning, visualization, health informatics, generative modeling, unsupervised learning, natural language processing, and human-computer interaction. I am a mental health advocate who enjoys writing, solving puzzles, and hiking with my dog Bumper. 
+I will be starting as an Assistant Professor of Data Science in the Information Services and Analytics Department at Bryant University this fall! My research interests include health informatics, natural language processing, machine learning, generative modeling, visualization, human-computer interaction, computational sociology, accessibility, and sustainability. 
 
+I completed my PhD in Data Science from Worcester Polytechnic Institute in Spring 2022. My dissertation research is part of the [Emutivo](https://emutivo.wpi.edu) project. My research focused on screening for mental illnesses with text data collected using mobile applications. 
 
-
+I enjoy writing, solving puzzles, and walking with my dog Bumper. 
 
 
 
