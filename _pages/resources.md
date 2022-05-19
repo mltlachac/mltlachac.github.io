@@ -98,7 +98,7 @@ author_profile: true
 
 [Respectful Disability Language](https://disability.stanford.edu/sites/g/files/sbiybj1401/f/disability-language-guide-stanford_1.pdf)
 * Linguistic preferences: people-first language vs identity-first language
-* Avoid offensive descriptors like *lame* or *crazy* 
+* Avoid offensive descriptors
 
 [LGBTQIA+ Glossary](https://lgbtqia.ucdavis.edu/educated/glossary)
 * Gender, biological sex, gender expression, and sexual orientation are different
