@@ -22,6 +22,7 @@ My first research mentoring experience was for [Math 380: Research Methods in Ma
 * [Project Advising 101: Early Career Faculty Workshop](https://www.wpi.edu/news/announcements/project-advising-101-early-career-faculty-workshop), WPI, 2021
 * [Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/), Northeastern University, 2020
 * [Fundamentals of Scientific Teaching and Pedagogy](https://canvas.wpi.edu/courses/8536/assignments/syllabus), WPI, 2020
+* [Leaders Engaging in Advocacy and Diversity Program](https://hub.wpi.edu/IE/Action/43), WPI, 2020
 * [Supporting WPI in Effective and Equitable Teamwork Squad](https://www.wpi.edu/academics/global-school/departments-programs-offices/sweet-center), WPI, 2019
 * [Graduate Teaching Assistant Training Seminar](https://www.wpi.edu/academics/faculty/morgan-teaching-learning-center/graduate-resources), WPI, 2016
 * [Leadership Seminar Series](https://www.uwec.edu/activities-involvement-leadership/leadership/leadership-seminar-series/), UWEC, 2013
