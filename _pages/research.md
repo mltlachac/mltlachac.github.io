@@ -51,6 +51,30 @@ author_profile: true
 
 [1] R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
 
+## Additional Campus Presentations
+
+[11] **ML Tlachac**, “Screening for Depression and Anxiety with Text Logs”, 3MT, WPI, 2022
+
+[10] **ML Tlachac**, "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, GRIE, WPI, 2022
+
+[9] **ML Tlachac**, “Collecting Data to Screen for Student Mental Health”, Graduate Research Lightning Talks, Arts and Sciences Week, WPI, 2021
+
+[8] **ML Tlachac**, “Mobile Data Collections for Mental Illness Screening”, Annual Sustainability Project Competition, WPI, 2021
+
+[7] **ML Tlachac**, "Improving Depression Screening with Text Messages", 3MT, WPI, 2021
+
+[6]	**ML Tlachac**, “Transfer Learning for Depression Screening with Text Messages”, GRIE, WPI, 2021
+
+[5] **ML Tlachac**, “Depression Screening with Text Messages”, Annual Sustainability Project Competition, WPI, 2021
+
+[4]	**ML Tlachac**, "Text Generation with Signal Retention for Depression Screening", 3MT, WPI, 2020
+
+[3]	**ML Tlachac**, “Patient Text Message Data Generation”, GRIE, WPI, 2020
+
+[2]	**ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", 3MT, WPI, 2019
+
+[1]	**ML Tlachac**, “Predicting Mental Health from Smartphone Text Messages”, GRIE, WPI, 2019
+
 
 # Image Accessibility Research
 
@@ -75,6 +99,12 @@ author_profile: true
 
 [1] K Beaulac, **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, S Doron, "Utilization of  Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends", SHEA Spring 2018 Conference: Science Guiding Prevention, the Society for Healthcare Epidemiology of America, 2018 (best abstract, 5 awarded)
 
+## Campus Presentations
+
+[2] **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Graduate Colloquium, WPI Data Science REU, 2017
+
+[1] **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", GRIE, WPI, 2019
+
 # Combinatorics Research
 
 ## Journal Article
@@ -87,6 +117,9 @@ author_profile: true
 
 [1] P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014 (poster presentation)
 
+## Campus Presentations
+
+[1] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, Mathematics Retreat, UWEC, 2015
 
 # Additional Research
 
