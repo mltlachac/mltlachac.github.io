@@ -75,6 +75,7 @@ author_profile: true
 
 [1]	**ML Tlachac**, “Predicting Mental Health from Smartphone Text Messages”, GRIE, WPI, 2019
 
+---
 
 ## Image Accessibility Research
 
@@ -82,6 +83,7 @@ author_profile: true
 
 [1] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), 2021
 
+---
 
 ## Longitudinal Antibiogram Modeling Research
 
@@ -105,6 +107,8 @@ author_profile: true
 
 [1] **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", GRIE, WPI, 2019
 
+---
+
 ## Combinatorics Research
 
 ### Journal Article
@@ -120,6 +124,8 @@ author_profile: true
 ### Campus Presentations
 
 [1] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, Mathematics Retreat, UWEC, 2015
+
+---
 
 ## Additional Research
 
