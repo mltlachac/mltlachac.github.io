@@ -9,7 +9,7 @@ author_profile: true
 
 ### Conference Papers, Journal Articles, and Book Chapters
 
-[10] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://ieeexplore.ieee.org/abstract/document/9680143), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021 ([15 min talk](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/presentationEMU.pdf))
+[10] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://ieeexplore.ieee.org/abstract/document/9680143), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021
 
 [9] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Depression Screening Using Deep Learning on Follow-up Questions in Clinical Interviews”](https://ieeexplore.ieee.org/abstract/document/9680200), 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
 
@@ -17,23 +17,23 @@ author_profile: true
 
 [7] **ML Tlachac**, V Melican, M Reisch, E Rundensteiner, ["Mobile Depression Screening with Time Series of Text Logs and Call Logs"](https://ieeexplore.ieee.org/abstract/document/9508582), 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
 
-[6] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, ["Screening for Suicidal Ideation with Text Messages"](https://ieeexplore.ieee.org/abstract/document/9508486), 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
+[6] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, ["Screening for Suicidal Ideation with Text Messages"](https://ieeexplore.ieee.org/abstract/document/9508486), 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021
 
-[5] **ML Tlachac**, A Sargent, E Toto, R Paffenroth, E Rundensteiner, ["Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection"](https://ieeexplore.ieee.org/abstract/document/9356319), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020 (10 min talk)
+[5] **ML Tlachac**, A Sargent, E Toto, R Paffenroth, E Rundensteiner, ["Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection"](https://ieeexplore.ieee.org/abstract/document/9356319), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020
 
 [4] E Toto, **ML Tlachac**, F Stevens, E Rundensteiner, ["Audio-based Depression Screening using Sliding Window Sub-clip Pooling"](https://ieeexplore.ieee.org/abstract/document/9356263), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020
   
 [3] **ML Tlachac**, E Rundensteiner, ["Screening for Depression with Retrospectively Harvested Private versus Public Text"](https://ieeexplore.ieee.org/abstract/document/9049136), IEEE Journal of Biomedical and Health Informatics (J-BHI), pp 107, 2020
 
-[2] **ML Tlachac**, E Rundensteiner, ["Depression Screening from Text Message Reply Latency"](https://ieeexplore.ieee.org/abstract/document/9175690), 42nd International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 5490-5493, 2020 (10 min talk)
+[2] **ML Tlachac**, E Rundensteiner, ["Depression Screening from Text Message Reply Latency"](https://ieeexplore.ieee.org/abstract/document/9175690), 42nd International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 5490-5493, 2020
 
-[1] **ML Tlachac**, E Toto, E Rundensteiner, ["You're Making Me Depressed: Leveraging Texts from Contact Subsets to Predict Depression"](https://ieeexplore.ieee.org/abstract/document/8834481), 16th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), pp 1-4, 2019 (15 min talk)
+[1] **ML Tlachac**, E Toto, E Rundensteiner, ["You're Making Me Depressed: Leveraging Texts from Contact Subsets to Predict Depression"](https://ieeexplore.ieee.org/abstract/document/8834481), 16th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), pp 1-4, 2019
 
 ### Conference Abstracts
 
 [2] M Shah, **ML Tlachac**, B Litterer, S Thatigotla, N Jurovich, E Rundensteiner, "Improving Lexical Category Features for Depression Screening with Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2021
 
-[1] **ML Tlachac**, E Rundensteiner, "The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2019 (poster presentation)
+[1] **ML Tlachac**, E Rundensteiner, "The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2019
 
 ### Women in Data Science (WiDS) Central MA Posters
 
@@ -89,13 +89,13 @@ author_profile: true
 
 ### Conference Papers and Book Chapters
 
-[4] **ML Tlachac**, E Rundensteiner, K Barton, TS Troppy, K Beaulac, S Doron, ["Anomalous Antimicrobial Susceptibility Trend Identiﬁcation"](https://ieeexplore.ieee.org/abstract/document/9176277), 42nd International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 5880-583, 2020 (10 min talk)
+[4] **ML Tlachac**, E Rundensteiner, K Barton, TS Troppy, K Beaulac, S Doron, ["Anomalous Antimicrobial Susceptibility Trend Identiﬁcation"](https://ieeexplore.ieee.org/abstract/document/9176277), 42nd International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 5880-583, 2020
 
 [3] **ML Tlachac**, E Rundensteiner, TS Troppy, K Beaulac, S Doron, K Barton, ["Predictive Modeling of Emerging Antibiotic Resistance Trends"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_18), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 348-366, 2019
 
-[2] **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, K Beaulac, S Doron, J Zou, ["CASSIA: An assistant for identifying clinically and statistically significant decreases in antimicrobial susceptibility"](https://ieeexplore.ieee.org/abstract/document/8333450), 15th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), pp. 389-392, 2018 (15 min talk)
+[2] **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, K Beaulac, S Doron, J Zou, ["CASSIA: An assistant for identifying clinically and statistically significant decreases in antimicrobial susceptibility"](https://ieeexplore.ieee.org/abstract/document/8333450), 15th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), pp. 389-392, 2018
 
-[1] **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, K Beaulac, S Doron, ["Predicting Future Antibiotic Susceptibility using Regression-based Methods on Longitudinal Massachusetts Antibiogram Data"](https://www.scitepress.org/papers/2018/65674/65674.pdf), 11th International Conference on Health Informatics (HealthInf), pp 103-114, 2018 (30 min talk)
+[1] **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, K Beaulac, S Doron, ["Predicting Future Antibiotic Susceptibility using Regression-based Methods on Longitudinal Massachusetts Antibiogram Data"](https://www.scitepress.org/papers/2018/65674/65674.pdf), 11th International Conference on Health Informatics (HealthInf), pp 103-114, 2018
 
 ### Conference Abstracts
 
@@ -117,9 +117,9 @@ author_profile: true
 
 ### Conference Abstracts
 
-[2] D Levin, P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance in Forests", Joint Mathematics Meetings, 2015 (poster presentation)
+[2] D Levin, P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance in Forests", Joint Mathematics Meetings, 2015
 
-[1] P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014 (poster presentation)
+[1] P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014
 
 ### Campus Presentations
 
@@ -139,4 +139,4 @@ author_profile: true
 
 [2] **ML Tlachac**, MS Tlachac, A Brisban, "Statistical Analysis of Crime in Eau Claire, WI", Joint Mathematics Meetings, 2016
 
-[1] **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016 (poster presentation)
+[1] **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016
