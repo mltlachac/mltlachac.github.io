@@ -30,12 +30,14 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 ## Research Presentations
 
 Annual Graduate Research Innovation Exchange, WPI
+* "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, 2022 (5 min talk)
 *	“Transfer Learning for Depression Screening with Text Messages”, 2021 (5 min talk)
 *	“Patient Text Message Data Generation”, 2020 (poster)
 *	“Predicting Mental Health from Smartphone Text Messages”, 2019 (poster)
 *	“Tackling the Antibiotic Resistance Crisis using Longitudinal Massachusetts Antibiogram Data”, 2018 (poster)
 
 Annual Three Minute Thesis (3MT) Competition, WPI
+* “Screening for Depression and Anxiety with Text Logs” 2022
 * "Improving Depression Screening with Text Messages", 2021
 *	"Text Generation with Signal Retention for Depression Screening", 2020
 *	"Predicting Depression from Retrospectively Harvested Smartphone Data", 2019
