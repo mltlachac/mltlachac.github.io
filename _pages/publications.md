@@ -69,7 +69,7 @@ author_profile: true
 
 [1] P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014 (poster presentation)
 
-## Women in Data Science (WiDS) Central Massachusetts Poster Abstracts
+## Women in Data Science (WiDS) Central Massachusetts Conference Abstracts
 
 [7] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 2022
 
