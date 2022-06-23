@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+I have conducted research in mental illness screening, asexual citizenship, image accessibility, longitudinal antibiogram modeling, renewable energy, and combinatorics.
+
 ## [EMUTIVO](https://emutivo.wpi.edu) Mental Illness Screening Research
 
 ### Conference Papers, Journal Articles, and Book Chapters
@@ -45,7 +47,7 @@ author_profile: true
 
 [1] **ML Tlachac**, E Rundensteiner, "The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2019
 
-### Women in Data Science (WiDS) Central MA Poster Abstracts
+### Women in Data Science (WiDS) Central Massachusetts Abstracts
 
 [7] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 2022
 
@@ -61,29 +63,41 @@ author_profile: true
 
 [1] R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
 
-### Additional Campus Presentations
+### Presentations
 
-[11] **ML Tlachac**, “Screening for Depression and Anxiety with Text Logs”, 3MT, WPI, 2022
+[12] **ML Tlachac**, “Screening for Depression and Anxiety with Text Logs”, 3MT, WPI, 2022
 
-[10] **ML Tlachac**, "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, GRIE, WPI, 2022
+[11] **ML Tlachac**, "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, GRIE, WPI, 2022
 
-[9] **ML Tlachac**, “Collecting Data to Screen for Student Mental Health”, Graduate Research Lightning Talks, Arts and Sciences Week, WPI, 2021
+[10] **ML Tlachac**, “Collecting Data to Screen for Student Mental Health”, Graduate Research Lightning Talks, Arts and Sciences Week, WPI, 2021
 
-[8] **ML Tlachac**, “Mobile Data Collections for Mental Illness Screening”, Annual Sustainability Project Competition, WPI, 2021
+[9] **ML Tlachac**, “Mobile Data Collections for Mental Illness Screening”, Annual Sustainability Project Competition, WPI, 2021
 
-[7] **ML Tlachac**, "Improving Depression Screening with Text Messages", 3MT, WPI, 2021
+[8] **ML Tlachac**, "Improving Depression Screening with Text Messages", 3MT, WPI, 2021
 
-[6]	**ML Tlachac**, “Transfer Learning for Depression Screening with Text Messages”, GRIE, WPI, 2021
+[7]	**ML Tlachac**, “Transfer Learning for Depression Screening with Text Messages”, GRIE, WPI, 2021
 
-[5] **ML Tlachac**, “Depression Screening with Text Messages”, Annual Sustainability Project Competition, WPI, 2021
+[6] **ML Tlachac**, “Depression Screening with Text Messages”, Annual Sustainability Project Competition, WPI, 2021
 
-[4]	**ML Tlachac**, "Text Generation with Signal Retention for Depression Screening", 3MT, WPI, 2020
+[5]	**ML Tlachac**, "Text Generation with Signal Retention for Depression Screening", 3MT, WPI, 2020
 
-[3]	**ML Tlachac**, “Patient Text Message Data Generation”, GRIE, WPI, 2020
+[4]	**ML Tlachac**, “Patient Text Message Data Generation”, GRIE, WPI, 2020
+
+[3] **ML Tlachac**, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
 
 [2]	**ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", 3MT, WPI, 2019
 
 [1]	**ML Tlachac**, “Predicting Mental Health from Smartphone Text Messages”, GRIE, WPI, 2019
+
+---
+
+## Asexual Citizenship Research
+
+### Abstracts
+
+[2] P Hart-Brinson, **ML Tlachac**, E Lepien, “Paths to Asexual Citizenship Under Conditions of Compulsory Sexuality: An Intersectional Approach”, Midwest Sociological Society Annual Meeting, 2022
+
+[1] **ML Tlachac**, P Hart-Brinson, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015
 
 ---
 
@@ -111,11 +125,25 @@ author_profile: true
 
 [1] K Beaulac, **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, S Doron, "Utilization of  Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends", SHEA Spring 2018 Conference: Science Guiding Prevention, the Society for Healthcare Epidemiology of America, 2018 (best abstract, 5 awarded)
 
-### Campus Presentations
+### Presentations
+
+[3] **ML Tlachac**, “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
 
 [2] **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Graduate Colloquium, WPI Data Science REU, 2017
 
 [1] **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", GRIE, WPI, 2019
+
+---
+
+## Renewable Energy Research
+
+### Conference Abstract
+
+[1] **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016
+
+### Presentations
+
+[1] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
 
 ---
 
@@ -131,7 +159,7 @@ author_profile: true
 
 [1] P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014
 
-### Campus Presentations
+### Presentations
 
 [1] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, Mathematics Retreat, UWEC, 2015
 
@@ -145,8 +173,6 @@ author_profile: true
 
 ### Conference Abstracts
 
-[3] P Hart-Brinson, **ML Tlachac**, E Lepien, “Paths to Asexual Citizenship Under Conditions of Compulsory Sexuality: An Intersectional Approach”, Midwest Sociological Society Annual Meeting, 2022
-
 [2] **ML Tlachac**, MS Tlachac, A Brisban, "Statistical Analysis of Crime in Eau Claire, WI", Joint Mathematics Meetings, 2016
 
-[1] **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016
+[1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
