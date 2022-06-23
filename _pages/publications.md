@@ -69,7 +69,7 @@ author_profile: true
 
 [1] P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014 (poster presentation)
 
-## Women in Data Science (WiDS) Central Massachusetts Conference Abstracts
+## Women in Data Science (WiDS) Central Massachusetts Abstracts
 
 [7] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 2022
 
@@ -84,6 +84,16 @@ author_profile: true
 [2] M Reisch, **ML Tlachac**, “Stereotype Threat Study on Mobile Application”, 2021
 
 [1] R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
+
+## UWEC's Celebration of Excellence in Research and Creative Activity (CERCA) Abstracts
+
+[4] D Brushaber, E Schwalbach, **ML Tlachac**, D Lewis, C Otto, “Math 380: Research Methods in Mathematics”, Celebration of Excellence in Research and Creative Activity, UWEC, 2016
+
+[3] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Pattern Avoidance in Forests”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015
+
+[2] **ML Tlachac**, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015 (poster presentation)
+
+[1] CR Fisher, **ML Tlachac**, J Anderson, “Localization of Candida Albicans Mbp1 Using a Gfp Fusion Protein”, Celebration of Excellence in Research and Creative Activity, UWEC, 2014
 
 ## Instruction Guide
 
