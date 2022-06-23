@@ -69,6 +69,8 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 ### Presentations
 
+[13] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Cross-Disciplinary Research Symposium, Bryant University, 2022
+
 [12] **ML Tlachac**, “Screening for Depression and Anxiety with Text Logs”, 3MT, WPI, 2022
 
 [11] **ML Tlachac**, "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, GRIE, WPI, 2022
