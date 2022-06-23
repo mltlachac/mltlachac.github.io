@@ -9,6 +9,16 @@ author_profile: true
 
 ### Conference Papers, Journal Articles, and Book Chapters
 
+[15] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, “Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+
+[14] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+	
+[13] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
+
+[12] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
+
+[11] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
+
 [10] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://ieeexplore.ieee.org/abstract/document/9680143), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021
 
 [9] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Depression Screening Using Deep Learning on Follow-up Questions in Clinical Interviews”](https://ieeexplore.ieee.org/abstract/document/9680200), 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021
@@ -23,7 +33,7 @@ author_profile: true
 
 [4] E Toto, **ML Tlachac**, F Stevens, E Rundensteiner, ["Audio-based Depression Screening using Sliding Window Sub-clip Pooling"](https://ieeexplore.ieee.org/abstract/document/9356263), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020
   
-[3] **ML Tlachac**, E Rundensteiner, ["Screening for Depression with Retrospectively Harvested Private versus Public Text"](https://ieeexplore.ieee.org/abstract/document/9049136), IEEE Journal of Biomedical and Health Informatics (J-BHI), pp 107, 2020
+[3] **ML Tlachac**, E Rundensteiner, ["Screening for Depression with Retrospectively Harvested Private versus Public Text"](https://ieeexplore.ieee.org/abstract/document/9049136), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 24 (11), pp 3326-3332, 2020
 
 [2] **ML Tlachac**, E Rundensteiner, ["Depression Screening from Text Message Reply Latency"](https://ieeexplore.ieee.org/abstract/document/9175690), 42nd International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 5490-5493, 2020
 
@@ -35,11 +45,11 @@ author_profile: true
 
 [1] **ML Tlachac**, E Rundensteiner, "The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2019
 
-### Women in Data Science (WiDS) Central MA Posters
+### Women in Data Science (WiDS) Central MA Poster Abstracts
 
 [7] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 2022
 
-[6] **ML Tlachac**, M Reisch, R Flores, E Rundensteiner, “StudentSADD versus DepreST: Collecting Data During COVID-19 for Rapid Mental Illness Screening”, 2022.
+[6] **ML Tlachac**, M Reisch, R Flores, E Rundensteiner, “StudentSADD versus DepreST: Collecting Data During COVID-19 for Rapid Mental Illness Screening”, 2022
 
 [5] K Houskeeper, M Dzwil, D Amicarella, **ML Tlachac**, “Extraction of Named Entities from Text Messages”, 2022
 
