@@ -29,12 +29,12 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 ## Research Presentations
 
-Annual Graduate Research Innovation Exchange, WPI
-* "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, 2022 (5 min talk)
-*	“Transfer Learning for Depression Screening with Text Messages”, 2021 (5 min talk)
-*	“Patient Text Message Data Generation”, 2020 (poster)
-*	“Predicting Mental Health from Smartphone Text Messages”, 2019 (poster)
-*	“Tackling the Antibiotic Resistance Crisis using Longitudinal Massachusetts Antibiogram Data”, 2018 (poster)
+Graduate Research Lightning Talks, Arts and Sciences Week, WPI 
+*	“Collecting Data to Screen for Student Mental Health”, 2021 (5 min talk)
+
+Annual Sustainability Project Competition, WPI
+* [“Mobile Data Collections for Mental Illness Screening”](https://wp.wpi.edu/sustainability-competition13/mobile-data-collections-for-mental-illness-screening/), 2021 (poster)
+*	[“Depression Screening with Text Messages”](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/1/395/files/2020/04/TlachacPoster2020-reduced.pdf), 2020 (poster)
 
 Annual Three Minute Thesis (3MT) Competition, WPI
 * “Screening for Depression and Anxiety with Text Logs” 2022
@@ -42,6 +42,12 @@ Annual Three Minute Thesis (3MT) Competition, WPI
 *	"Text Generation with Signal Retention for Depression Screening", 2020
 *	"Predicting Depression from Retrospectively Harvested Smartphone Data", 2019
 
-Annual Sustainability Project Competition, WPI
-* [“Mobile Data Collections for Mental Illness Screening”](https://wp.wpi.edu/sustainability-competition13/mobile-data-collections-for-mental-illness-screening/), 2021 (poster)
-*	[“Depression Screening with Text Messages”](https://cpb-us-w2.wpmucdn.com/wp.wpi.edu/dist/1/395/files/2020/04/TlachacPoster2020-reduced.pdf), 2020 (poster)
+Annual Graduate Research Innovation Exchange, WPI
+* "StudentSADD: Student Suicidal Ideation and Depression Detection Dataset”, 2022 (5 min talk)
+*	“Transfer Learning for Depression Screening with Text Messages”, 2021 (5 min talk)
+*	“Patient Text Message Data Generation”, 2020 (poster)
+*	“Predicting Mental Health from Smartphone Text Messages”, 2019 (poster)
+*	“Tackling the Antibiotic Resistance Crisis using Longitudinal Massachusetts Antibiogram Data”, 2018 (poster)
+
+Celebration of Excellence in Research and Creative Activity, UWEC
+*	[“Asexuality: An Emerging Sexual Orientation and Identity”](https://minds.wisconsin.edu/bitstream/handle/1793/74836/TlachacSp15.pdf?sequence=1&isAllowed=y), 2015 (poster)
