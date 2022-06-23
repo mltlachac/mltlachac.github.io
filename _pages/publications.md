@@ -91,7 +91,7 @@ author_profile: true
 
 [3] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Pattern Avoidance in Forests”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015
 
-[2] **ML Tlachac**, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015 (poster presentation)
+[2] **ML Tlachac**, P Hart-Brinson, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015 (poster presentation)
 
 [1] CR Fisher, **ML Tlachac**, J Anderson, “Localization of Candida Albicans Mbp1 Using a Gfp Fusion Protein”, Celebration of Excellence in Research and Creative Activity, UWEC, 2014
 
