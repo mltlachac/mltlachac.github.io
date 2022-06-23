@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in mental illness screening, asexual citizenship, and image accessibility. Previously, I have also worked on projects including longitudinal antibiogram modeling, renewable energy, and combinatorics. I further detail my research outputs by project.
+I am currently conducting research in mental illness screening, asexual citizenship, and image accessibility. Previously, I have also worked on projects including longitudinal antibiogram modeling, medical named entity recogntion, renewable energy, and combinatorics.
 
 ## [EMUTIVO](https://emutivo.wpi.edu) Mental Illness Screening Research
 
@@ -135,6 +135,14 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 ---
 
+## Medical Named Entity Recognition Research
+
+### Book Chapter
+
+[1] S Wunnava, X Qin, T Kakar, **ML Tlachac**, X Kong, E Rundensteiner, S Sahoo, S De, ["Multi-layered Learning for Information Extraction from Adverse Drug Event Narratives"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_22), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 421-446, 2019
+
+---
+
 ## Renewable Energy Research
 
 ### Conference Abstract
@@ -162,17 +170,3 @@ I am currently conducting research in mental illness screening, asexual citizens
 ### Presentations
 
 [1] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, Mathematics Retreat, UWEC, 2015
-
----
-
-## Additional Research
-
-### Book Chapter
-
-[1] S Wunnava, X Qin, T Kakar, **ML Tlachac**, X Kong, E Rundensteiner, S Sahoo, S De, ["Multi-layered Learning for Information Extraction from Adverse Drug Event Narratives"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_22), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 421-446, 2019
-
-### Conference Abstracts
-
-[2] **ML Tlachac**, MS Tlachac, A Brisban, "Statistical Analysis of Crime in Eau Claire, WI", Joint Mathematics Meetings, 2016
-
-[1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
