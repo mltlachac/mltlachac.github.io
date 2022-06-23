@@ -85,16 +85,6 @@ author_profile: true
 
 [1] R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
 
-## UWEC's Celebration of Excellence in Research and Creative Activity (CERCA) Abstracts
-
-[4] D Brushaber, E Schwalbach, **ML Tlachac**, D Lewis, C Otto, “Math 380: Research Methods in Mathematics”, Celebration of Excellence in Research and Creative Activity, UWEC, 2016
-
-[3] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Pattern Avoidance in Forests”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015
-
-[2] **ML Tlachac**, P Hart-Brinson, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015 (poster presentation)
-
-[1] CR Fisher, **ML Tlachac**, J Anderson, “Localization of Candida Albicans Mbp1 Using a Gfp Fusion Protein”, Celebration of Excellence in Research and Creative Activity, UWEC, 2014
-
 ## Instruction Guide
 
 [1] **ML Tlachac**, "A Guide for using Polyglot on Windows", Medium, 2020
