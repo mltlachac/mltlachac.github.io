@@ -27,7 +27,7 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 [1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
 
-## Research Presentations
+## Campus Research Presentations
 
 Graduate Research Lightning Talks, Arts and Sciences Week, WPI 
 *	“Collecting Data to Screen for Student Mental Health”, 2021 (5 min talk)
