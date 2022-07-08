@@ -11,9 +11,9 @@ author_profile: true
 
 [21] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
 	
-[20] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
+[20] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://dl.acm.org/doi/10.1145/3534596), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
-[19] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
+[19] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://dl.acm.org/doi/10.1145/3534604), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
 [18] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
 
@@ -87,4 +87,4 @@ author_profile: true
 
 ## Instruction Guide
 
-[1] **ML Tlachac**, "A Guide for using Polyglot on Windows", Medium, 2020
+[1] **ML Tlachac**, ["A Guide for using Polyglot on Windows"](https://medium.com/@tlachacml/a-guide-for-using-polyglot-on-windows-8cbd8f97c7b0), Medium, 2020
