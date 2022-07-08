@@ -11,9 +11,9 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 ### Journal Articles
 
-[3] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
+[3] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://dl.acm.org/doi/10.1145/3534596), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
-[2] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
+[2] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://dl.acm.org/doi/10.1145/3534604), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
 [1] **ML Tlachac**, E Rundensteiner, ["Screening for Depression with Retrospectively Harvested Private versus Public Text"](https://ieeexplore.ieee.org/abstract/document/9049136), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 24 (11), pp 3326-3332, 2020
 
