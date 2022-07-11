@@ -13,6 +13,9 @@ author_profile: true
 [Virtual Enviornments for Jupyter](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415)
 * Virtual environment allows each project to have an isolated environment with required dependencies
 
+[Virtual Environments in Command Line](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+* Instructions for installing, creating, and adding to a virtual environment using the command line
+
 [scikit-learn documentation](https://scikit-learn.org/stable/)
 * Explains algorithms and provides code examples
 
