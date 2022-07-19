@@ -9,6 +9,12 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 ## Invited & Campus Talks
 
+[12] **ML Tlachac**, [“Dissecting the Paper Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
+
+[11] **ML Tlachac**, [“Dissecting the Poster Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
+
+[10] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
+
 [9] **ML Tlachac**, [“Developing a Professional Poster: My Poster Evolution”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2021.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2021
 
 [8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, [“Student Mental Health”](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), Critical Conversations Series, 2021
