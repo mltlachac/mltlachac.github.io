@@ -7,13 +7,11 @@ author_profile: true
 
 Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with published papers or conference abstracts.
 
-## Invited & Campus Talks
+## Talks & Panels
 
-[12] **ML Tlachac**, [“Dissecting the Paper Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
+[11] **ML Tlachac**, [“Dissecting the *Paper* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
 
-[11] **ML Tlachac**, [“Dissecting the Poster Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
-
-[10] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
+[10] **ML Tlachac**, [“Dissecting the *Poster* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
 
 [9] **ML Tlachac**, [“Developing a Professional Poster: My Poster Evolution”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2021.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2021
 
@@ -25,7 +23,7 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 
 [5] **ML Tlachac**, “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
 
-[4] **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Graduate Colloquium, WPI Data Science REU, 2017
+[4] **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Research Experience for Undergraduates (REU) Graduate Research Colloquium, WPI Data Science REU, 2017
 
 [3] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
 
@@ -34,6 +32,9 @@ Please see [Publications](https://mltlachac.github.io/publications/) for confere
 [1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
 
 ## Campus Research Presentations
+
+Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University
+* “Emutivo Digital Phenotype Datasets”, 2022 (30 min talk)
 
 Graduate Research Lightning Talks, Arts and Sciences Week, WPI 
 *	“Collecting Data to Screen for Student Mental Health”, 2021 (5 min talk)
