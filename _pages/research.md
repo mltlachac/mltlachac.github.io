@@ -17,6 +17,12 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 [1] **ML Tlachac**, E Rundensteiner, ["Screening for Depression with Retrospectively Harvested Private versus Public Text"](https://ieeexplore.ieee.org/abstract/document/9049136), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 24 (11), pp 3326-3332, 2020
 
+### Book Chapters
+
+[2] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, “Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+
+[1] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+
 ### Conference Papers
 	
 [10] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
@@ -38,12 +44,6 @@ I am currently conducting research in mental illness screening, asexual citizens
 [2] **ML Tlachac**, E Rundensteiner, ["Depression Screening from Text Message Reply Latency"](https://ieeexplore.ieee.org/abstract/document/9175690), 42nd International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 5490-5493, 2020
 
 [1] **ML Tlachac**, E Toto, E Rundensteiner, ["You're Making Me Depressed: Leveraging Texts from Contact Subsets to Predict Depression"](https://ieeexplore.ieee.org/abstract/document/8834481), 16th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), pp 1-4, 2019
-
-### Book Chapters
-
-[2] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, “Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
-
-[1] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 ### Conference Abstracts
 
