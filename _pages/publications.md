@@ -19,7 +19,7 @@ author_profile: true
 
 [19] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://dl.acm.org/doi/10.1145/3534604), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
-[18] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
+[18] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, [“Ensembles of BERT for Depression Classification”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/EnsembleBERT%20(4).pdf), 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
 
 [17] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://ieeexplore.ieee.org/abstract/document/9680143), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021 ([15 min talk](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/presentationEMU.pdf))
 
