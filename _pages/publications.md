@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Papers, Journal Articles, and Book Chapters
 
+[24] **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
+
+[23] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “AudiFace: Multimodal Deep Learning for Depression Screening”, Machine Learning for Healthcare, 2022
+
 [22] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, “Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 [21] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
