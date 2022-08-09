@@ -11,6 +11,8 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 ### Journal Articles
 
+[4] **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
+
 [3] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://dl.acm.org/doi/10.1145/3534596), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
 [2] **ML Tlachac**, R Flores, M Reisch, R Kayastha, N Taurich, V Melican, C Bruneau, H Caouette, J Lovering, E Toto, E Rundensteiner, [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://dl.acm.org/doi/10.1145/3534604), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
@@ -24,6 +26,8 @@ I am currently conducting research in mental illness screening, asexual citizens
 [1] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 ### Conference Papers
+
+[11] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “AudiFace: Multimodal Deep Learning for Depression Screening”, Machine Learning for Healthcare, 2022
 	
 [10] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
 
