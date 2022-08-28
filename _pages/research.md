@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in mental illness screening, asexual citizenship, and image accessibility. Previously, I have also worked on projects including longitudinal antibiogram modeling, medical named entity recogntion, renewable energy, and combinatorics.
+I am currently conducting research in mental illness screening and asexual citizenship. Previously, I have also worked on projects including image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, enviornmental sustainability, and combinatorics.
 
 ## [EMUTIVO](https://emutivo.wpi.edu) Mental Illness Screening Research
 
@@ -155,7 +155,11 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 ---
 
-## Renewable Energy Research
+## Environmental Sustainability Research
+
+### Conference Papper
+
+[1] R Flores, **ML Tlachac**, E Rundensteiner, “Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”, ACM International Conference on Information Technology for Social Good (GoodIT), 2022
 
 ### Conference Abstract
 
@@ -163,7 +167,9 @@ I am currently conducting research in mental illness screening, asexual citizens
 
 ### Presentation
 
-[1] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
+[2] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
+
+[1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
 
 ---
 
