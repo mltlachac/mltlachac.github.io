@@ -159,7 +159,7 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Conference Papper
 
-[1] R Flores, **ML Tlachac**, E Rundensteiner, “Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”, ACM International Conference on Information Technology for Social Good (GoodIT), 2022
+[1] R Flores, **ML Tlachac**, E Rundensteiner, [“Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”](https://dl.acm.org/doi/abs/10.1145/3524458.3547250), ACM International Conference on Information Technology for Social Good (GoodIT), 2022
 
 ### Conference Abstract
 
