@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Papers, Journal Articles, and Book Chapters
 
+[25] R Flores, **ML Tlachac**, E Rundensteiner, [“Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”](https://dl.acm.org/doi/abs/10.1145/3524458.3547250), ACM International Conference on Information Technology for Social Good (GoodIT), 2022
+
 [24] **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
 
 [23] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“AudiFace: Multimodal Deep Learning for Depression Screening”](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97980f9a1400427342aac/1659468160900/86+mlhc22_86_camera_ready.pdf), Machine Learning for Healthcare, 2022
