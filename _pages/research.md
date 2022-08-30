@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in mental illness screening and asexual citizenship. Previously, I have also worked on projects including image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, enviornmental sustainability, and combinatorics.
+I am currently conducting research in mental illness screening and asexual citizenship. Previously, I have also worked on projects including image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
 
 ## [EMUTIVO](https://emutivo.wpi.edu) Mental Illness Screening Research
 
