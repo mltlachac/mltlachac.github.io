@@ -11,6 +11,8 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Journal Articles
 
+[5] [26] **ML Tlachac**, A Shrestha, M Shah, B Litterer, and E Rundensteiner, [“Automated Construction of Lexicons to Improve Depression Screening with Text Messages”](https://ieeexplore.ieee.org/document/9870799), IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on Advancing Biomedical Discovery & Healthcare Delivery Through Digital Technologies, 2022
+
 [4] **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
 
 [3] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://dl.acm.org/doi/10.1145/3534596), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
