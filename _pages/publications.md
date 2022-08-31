@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Papers, Journal Articles, and Book Chapters
 
+[26] **ML Tlachac**, A Shrestha, M Shah, B Litterer, and E Rundensteiner, [“Automated Construction of Lexicons to Improve Depression Screening with Text Messages”](https://ieeexplore.ieee.org/document/9870799), IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on Advancing Biomedical Discovery & Healthcare Delivery Through Digital Technologies, 2022
+
 [25] R Flores, **ML Tlachac**, E Rundensteiner, [“Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”](https://dl.acm.org/doi/abs/10.1145/3524458.3547250), ACM International Conference on Information Technology for Social Good (GoodIT), 2022
 
 [24] **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
