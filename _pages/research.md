@@ -31,7 +31,7 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 [11] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“AudiFace: Multimodal Deep Learning for Depression Screening”](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97980f9a1400427342aac/1659468160900/86+mlhc22_86_camera_ready.pdf), Machine Learning for Healthcare, 2022
 	
-[10] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, [“Ensembles of BERT for Depression Classification”](https://ieeexplore.ieee.org/document/9871120), 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2022
+[10] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, [“Ensembles of BERT for Depression Classification”](https://ieeexplore.ieee.org/document/9871120), 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 4691-4694, 2022
 
 [9] **ML Tlachac**, E Toto, J Lovering, R Kayastha, N Taurich, E Rundensteiner, [“EMU: Early Mental Health Uncovering Framework and Dataset”](https://ieeexplore.ieee.org/abstract/document/9680143), 20th IEEE International Conference on Machine Learning and Applications (ICMLA) Special Session Machine Learning in Health, 2021
 
