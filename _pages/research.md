@@ -29,6 +29,12 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Conference Papers
 
+[14] A Shrestha, **ML Tlachac**, R Flores, E Rundensteiner, “BERT Variants for Depression Screening with Typed and Transcribed Responses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Computing for Well-being (WellComp), 2022
+
+[13] R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, [“Temporal Facial Features for Depression Screening”](https://ubicomp-mental-health.github.io/papers/2022/Flores-facial-features.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
+
+[12] **ML Tlachac**, SS Ogden, [“Left on Read: Anxiety and Depression Screening with Reply Latency”](https://ubicomp-mental-health.github.io/papers/2022/Tlachac-screening.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
+
 [11] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“AudiFace: Multimodal Deep Learning for Depression Screening”](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97980f9a1400427342aac/1659468160900/86+mlhc22_86_camera_ready.pdf), Machine Learning for Healthcare, 2022
 	
 [10] S Senn, **ML Tlachac**, R Flores, E Rundensteiner, [“Ensembles of BERT for Depression Classification”](https://ieeexplore.ieee.org/document/9871120), 44th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), pp 4691-4694, 2022
