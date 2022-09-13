@@ -81,6 +81,10 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Presentations
 
+[15] **ML Tlachac**, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+	
+[14] **ML Tlachac**, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+
 [13] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Cross-Disciplinary Research Symposium, Bryant University, 2022
 
 [12] **ML Tlachac**, “Screening for Depression and Anxiety with Text Logs”, 3MT, WPI, 2022
@@ -93,19 +97,19 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 [8] **ML Tlachac**, "Improving Depression Screening with Text Messages", 3MT, WPI, 2021
 
-[7]	**ML Tlachac**, “Transfer Learning for Depression Screening with Text Messages”, GRIE, WPI, 2021
+[7] **ML Tlachac**, “Transfer Learning for Depression Screening with Text Messages”, GRIE, WPI, 2021
 
 [6] **ML Tlachac**, “Depression Screening with Text Messages”, Annual Sustainability Project Competition, WPI, 2021
 
-[5]	**ML Tlachac**, "Text Generation with Signal Retention for Depression Screening", 3MT, WPI, 2020
+[5] **ML Tlachac**, "Text Generation with Signal Retention for Depression Screening", 3MT, WPI, 2020
 
-[4]	**ML Tlachac**, “Patient Text Message Data Generation”, GRIE, WPI, 2020
+[4] **ML Tlachac**, “Patient Text Message Data Generation”, GRIE, WPI, 2020
 
 [3] **ML Tlachac**, “Screening for Depression with Retrospectively Harvested Private versus Public Text”, Graduate Colloquium, Florida State Online ACM Computer Club, 2020
 
-[2]	**ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", 3MT, WPI, 2019
+[2] **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", 3MT, WPI, 2019
 
-[1]	**ML Tlachac**, “Predicting Mental Health from Smartphone Text Messages”, GRIE, WPI, 2019
+[1] **ML Tlachac**, “Predicting Mental Health from Smartphone Text Messages”, GRIE, WPI, 2019
 
 ---
 
