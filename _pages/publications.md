@@ -11,7 +11,7 @@ author_profile: true
 
 [28] R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, [“Temporal Facial Features for Depression Screening”](https://ubicomp-mental-health.github.io/papers/2022/Flores-facial-features.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
 
-[27] **ML Tlachac**, SS Ogden, [“Left on Read: Anxiety and Depression Screening with Reply Latency”](https://ubicomp-mental-health.github.io/papers/2022/Tlachac-screening.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
+[27] **ML Tlachac**, SS Ogden, [“Left on Read: Anxiety and Depression Screening with Reply Latency”](https://ubicomp-mental-health.github.io/papers/2022/Tlachac-screening.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022 (10 min talk)
 
 [26] **ML Tlachac**, A Shrestha, M Shah, B Litterer, and E Rundensteiner, [“Automated Construction of Lexicons to Improve Depression Screening with Text Messages”](https://ieeexplore.ieee.org/document/9870799), IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on Advancing Biomedical Discovery & Healthcare Delivery Through Digital Technologies, 2022
 
