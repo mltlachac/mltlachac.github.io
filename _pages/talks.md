@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with conference papers or abstracts.
+Please refer to [Publications](https://mltlachac.github.io/publications/) for conference talks associated with conference papers or conference abstracts.
 
 ## Talks & Panels
 
