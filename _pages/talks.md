@@ -5,9 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with published papers or conference abstracts.
+Please see [Publications](https://mltlachac.github.io/publications/) for conference talks associated with conference papers or abstracts.
 
 ## Talks & Panels
+
+[13] **ML Tlachac**, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+
+[12] **ML Tlachac**, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 
 [11] **ML Tlachac**, [“Dissecting the *Paper* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
 
