@@ -131,6 +131,24 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ---
 
+## Environmental Sustainability Research
+
+### Conference Paper
+
+[1] R Flores, **ML Tlachac**, E Rundensteiner, [“Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”](https://dl.acm.org/doi/abs/10.1145/3524458.3547250), ACM International Conference on Information Technology for Social Good (GoodIT), 2022
+
+### Conference Abstract
+
+[1] **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016
+
+### Presentations
+
+[2] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
+
+[1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
+
+---
+
 ## Longitudinal Antibiogram Modeling Research
 
 ### Conference Papers
@@ -164,24 +182,6 @@ I am currently conducting research in mental illness screening and asexual citiz
 ### Book Chapter
 
 [1] S Wunnava, X Qin, T Kakar, **ML Tlachac**, X Kong, E Rundensteiner, S Sahoo, S De, ["Multi-layered Learning for Information Extraction from Adverse Drug Event Narratives"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_22), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 421-446, 2019
-
----
-
-## Environmental Sustainability Research
-
-### Conference Paper
-
-[1] R Flores, **ML Tlachac**, E Rundensteiner, [“Measuring the Uncertainty of Environmental Good Preferences with Bayesian Deep Learning”](https://dl.acm.org/doi/abs/10.1145/3524458.3547250), ACM International Conference on Information Technology for Social Good (GoodIT), 2022
-
-### Conference Abstract
-
-[1] **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016
-
-### Presentation
-
-[2] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
-
-[1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
 
 ---
 
