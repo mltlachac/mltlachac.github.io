@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Papers, Journal Articles, and Book Chapters
 
+[30] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ["Improving Image Accessibility by Combining Haptic and Auditory Feedback"](https://dl.acm.org/doi/10.1145/3517428.3550362), 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS) Demos, 2022
+
 [29] A Shrestha, **ML Tlachac**, R Flores, E Rundensteiner, “BERT Variants for Depression Screening with Typed and Transcribed Responses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Computing for Well-being (WellComp), 2022
 
 [28] R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, [“Temporal Facial Features for Depression Screening”](https://ubicomp-mental-health.github.io/papers/2022/Flores-facial-features.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
