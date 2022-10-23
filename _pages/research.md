@@ -127,6 +127,8 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Conference Paper
 
+[2]  M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ["Improving Image Accessibility by Combining Haptic and Auditory Feedback"](https://dl.acm.org/doi/10.1145/3517428.3550362), 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS) Demos, 2022
+
 [1] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), 2021
 
 ---
