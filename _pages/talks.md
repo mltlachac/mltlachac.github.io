@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Please refer to [Publications](https://mltlachac.github.io/publications/) for conference talks associated with conference papers or conference abstracts.
+Please refer to [Publications](https://mltlachac.github.io/publications/) for conference talks associated with conference papers or abstracts.
 
 ## Talks & Panels
 
@@ -37,7 +37,13 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for co
 
 ## Campus Research Presentations
 
+Celebrating Academic Excellence, Bryant University
+* “Text Reply Latencies for Mental Illness Screening”, 2022 (poster)
+* “Stereotype Threat Impact on Mobile Depression Screening”, 2022 (poster)
+* 	“Digital Biomarker Datasets for Mental Illness Screening”, 2022 (poster)
+
 Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University
+* “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, 2022 (20 minute talk)
 * “Emutivo Digital Phenotype Datasets”, 2022 (30 min talk)
 
 Graduate Research Lightning Talks, Arts and Sciences Week, WPI 
