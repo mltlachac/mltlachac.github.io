@@ -23,9 +23,9 @@ author_profile: true
 
 [23] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“AudiFace: Multimodal Deep Learning for Depression Screening”](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97980f9a1400427342aac/1659468160900/86+mlhc22_86_camera_ready.pdf), Machine Learning for Healthcare, 2022
 
-[22] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, “Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+[22] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, [“Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_4), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
-[21] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+[21] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_3), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 	
 [20] **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://dl.acm.org/doi/10.1145/3534596), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
