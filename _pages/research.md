@@ -23,9 +23,9 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Book Chapters
 
-[2] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, “Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+[2] **ML Tlachac**, R Flores, E Toto, E Rundensteiner, [“Early Mental Health Uncovering with Short Scripted and Unscripted Voice Recordings”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_4), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
-[1] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, “Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”, Deep Learning Applications (DLAV), vol 4, Springer, 2022
+[1] R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_3), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 ### Conference Papers
 
@@ -80,6 +80,14 @@ I am currently conducting research in mental illness screening and asexual citiz
 [1] R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
 
 ### Presentations
+
+[19] **ML Tlachac**, “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, Cross-Disciplinary Research Symposium, Bryant University, 2022
+
+[18] **ML Tlachac**, “Text Reply Latencies for Mental Illness Screening”, Celebrating Academic Excellence, Bryant University, 2022
+
+[17] **ML Tlachac**, “Stereotype Threat Impact on Mobile Depression Screening”, Celebrating Academic Excellence, Bryant University, 2022
+
+[16] **ML Tlachac**, “Digital Biomarker Datasets for Mental Illness Screening”, Celebrating Academic Excellence, Bryant University, 2022
 
 [15] **ML Tlachac**, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 	
