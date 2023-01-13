@@ -40,7 +40,7 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for co
 Celebrating Academic Excellence, Bryant University
 * “Text Reply Latencies for Mental Illness Screening”, 2022 (poster)
 * “Stereotype Threat Impact on Mobile Depression Screening”, 2022 (poster)
-* 	“Digital Biomarker Datasets for Mental Illness Screening”, 2022 (poster)
+* “Digital Biomarker Datasets for Mental Illness Screening”, 2022 (poster)
 
 Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University
 * “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, 2022 (20 minute talk)
