@@ -29,6 +29,8 @@ I am currently conducting research in mental illness screening and asexual citiz
 
 ### Conference Papers
 
+[15] **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data), pp 2804-2813, 2022
+
 [14] A Shrestha, **ML Tlachac**, R Flores, E Rundensteiner, “BERT Variants for Depression Screening with Typed and Transcribed Responses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Computing for Well-being (WellComp), 2022
 
 [13] R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, [“Temporal Facial Features for Depression Screening”](https://ubicomp-mental-health.github.io/papers/2022/Flores-facial-features.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
