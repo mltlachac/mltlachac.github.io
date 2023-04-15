@@ -9,6 +9,8 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for co
 
 ## Talks & Panels
 
+[14] S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, Research and Engagement Day (REDay), Bryant University, 2023
+
 [13] **ML Tlachac**, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 
 [12] **ML Tlachac**, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
