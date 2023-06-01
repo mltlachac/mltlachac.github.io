@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Mentoring and Teaching Experience"
-permalink: /mentoring/
+title: "Teaching and Mentoring Experience"
+permalink: /teaching/
 author_profile: true
 ---
+
+## Instructor
+I teach Information Systems and Analytics (ISA) and Applied Analytics (AA) classes at Bryant University.
+* ISA 330: Programming for Data Science
+* AA 306: Data Mining for Effective Decision Making
+* AA 640: Data Visualization and Text Mining
 
 ## Research Mentor
 My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Since 2018, I've mentored 35+ students on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI. The student teams I've mentored on this project include:
@@ -19,6 +25,7 @@ My first research mentoring experience was for [Math 380: Research Methods in Ma
 * Adonay Resom, Jerry Assan, Maurice Flannery, Yufei Gao, Yuxin Wu, [“Machine Learning for Mental Health Detection”](https://digital.wpi.edu/concern/student_works/9306t094r?locale=en), Undergraduate Computer Science Major Qualifying Project, A-C terms, 2018-2019
 
 ## Training
+* [ACUE Effective Teaching Practices](https://cte.bryant.edu/acue/), Bryant University, 2022-2023 
 * [Project Advising 101: Early Career Faculty Workshop](https://www.wpi.edu/news/announcements/project-advising-101-early-career-faculty-workshop), WPI, 2021
 * [Reclaiming STEM Workshop](https://reclaimingstem.wardofcode.com/), UCLA, 2021
 * [Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/), Northeastern University, 2020
