@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching and Mentoring Experience"
-permalink: /teaching/
+permalink: /mentoring/
 author_profile: true
 ---
 
