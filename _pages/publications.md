@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Papers, Journal Articles, and Book Chapters
 
+[32] P Hart-Brinson, **ML Tlachac**, E Lepien ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
+
 [31] **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data), pp 2804-2813, 2022
 
 [30] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ["Improving Image Accessibility by Combining Haptic and Auditory Feedback"](https://dl.acm.org/doi/10.1145/3517428.3550362), 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS) Demos, 2022
