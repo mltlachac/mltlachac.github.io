@@ -9,11 +9,19 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for co
 
 ## Talks & Panels
 
-[14] S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, Research and Engagement Day (REDay), Bryant University, 2023
+[18] **ML Tlachac**, “Text Mining for Shakespeare Plays”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2023
+
+[17] **ML Tlachac**, “Romeo and Juliet Word Cloud”, 6th Annual Spring Teaching Summit: Teaching and Learning Demos, Bryant University, 2023
+
+[16] S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, Research and Engagement Day (REDay), Bryant University, 2023
+
+[15] **ML Tlachac**, “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
+
+[14] **ML Tlachac**, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 
 [13] **ML Tlachac**, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 
-[12] **ML Tlachac**, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+[12] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
 
 [11] **ML Tlachac**, [“Dissecting the *Paper* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
 
@@ -43,10 +51,6 @@ Celebrating Academic Excellence, Bryant University
 * “Text Reply Latencies for Mental Illness Screening”, 2022 (poster)
 * “Stereotype Threat Impact on Mobile Depression Screening”, 2022 (poster)
 * “Digital Biomarker Datasets for Mental Illness Screening”, 2022 (poster)
-
-Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University
-* “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, 2022 (20 minute talk)
-* “Emutivo Digital Phenotype Datasets”, 2022 (30 min talk)
 
 Graduate Research Lightning Talks, Arts and Sciences Week, WPI 
 *	“Collecting Data to Screen for Student Mental Health”, 2021 (5 min talk)
