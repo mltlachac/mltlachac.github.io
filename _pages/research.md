@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in mental illness screening and asexual citizenship. Previously, I have also worked on projects including image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
+I am currently conducting research in digital mental illness screening. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
 
-## [EMUTIVO](https://emutivo.wpi.edu) Mental Illness Screening Research
+## [EMUTIVO](https://emutivo.wpi.edu) Digital Mental Illness Screening Research
 
 ### Journal Articles
 
@@ -124,6 +124,10 @@ I am currently conducting research in mental illness screening and asexual citiz
 ---
 
 ## Asexual Citizenship Research
+
+### Journal Article
+
+[1] P Hart-Brinson, **ML Tlachac**, E Lepien ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
 
 ### Abstracts
 
