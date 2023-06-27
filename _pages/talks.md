@@ -11,7 +11,7 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for co
 
 [18] **ML Tlachac**, “Text Mining for Shakespeare Plays”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2023
 
-[17] **ML Tlachac**, “Romeo and Juliet Word Cloud”, 6th Annual Spring Teaching Summit: Teaching and Learning Demos, Bryant University, 2023
+[17] **ML Tlachac**, [“Romeo and Juliet Word Cloud”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/Tlachac_WordCloud_Summit23edited.pdf), 6th Annual Spring Teaching Summit: Teaching and Learning Demos, Bryant University, 2023
 
 [16] S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, Research and Engagement Day (REDay), Bryant University, 2023
 
