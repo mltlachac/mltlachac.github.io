@@ -17,7 +17,7 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for ad
 ## Panels
 
 * S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, [Research and Engagement Day (REDay)](https://drive.google.com/file/d/1RIUtcjxJafKnfVK_xnnBUaFOrzd9DWIK/view), Bryant University, 2023
-* Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, [“Student Mental Health”](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), Critical Conversations Series, 2021
+* Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, “Student Mental Health”, [Critical Conversations Series](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), 2021
 *  M Jutras, J Shankar, **ML Tlachac**, “Demystifying the Role of Women in Data Science”, [Women+ in Data Science (WiDS) Central Massachusetts Conference](https://www.widscentralmass.org/), WPI, 2020
 
 
