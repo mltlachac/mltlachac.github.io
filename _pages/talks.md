@@ -4,46 +4,50 @@ title: "Talks and Poster Presentations"
 permalink: /talks/
 author_profile: true
 ---
+## Highlighted Conference Talks
 
-Please refer to [Publications](https://mltlachac.github.io/publications/) for conference talks associated with conference papers or abstracts.
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)
+* [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/DepreST-CAT2022.pdf), 2022
+* [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/StudentSADD2022.pdf), 2022
+* ["Left On Read: Reply Latency for Anxiety & Depression Screening"](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/Left%20on%20Read.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) [7th International Workshop on Mental Health and Well-being: Sensing and Intervention](https://ubicomp-mental-health.github.io/workshop-2022.html), 2022
 
-## Talks & Panels
+Please refer to [Publications](https://mltlachac.github.io/publications/) for additional conference presentations associated with conference papers or abstracts.
 
-[18] **ML Tlachac**, “Text Mining for Shakespeare Plays”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2023
 
-[17] **ML Tlachac**, [“Romeo and Juliet Word Cloud”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/Tlachac_WordCloud_Summit23edited.pdf), 6th Annual Spring Teaching Summit: Teaching and Learning Demos, Bryant University, 2023
+## Panels
 
-[16] S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, Research and Engagement Day (REDay), Bryant University, 2023
+* S Yoon, G Kovacs, C Zheng, EJ Lee, **ML Tlachac**, “College of Business Faculty Spotlight Research Panel”, [Research and Engagement Day (REDay)](https://drive.google.com/file/d/1RIUtcjxJafKnfVK_xnnBUaFOrzd9DWIK/view), Bryant University, 2023
+* Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, [“Student Mental Health”](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), Critical Conversations Series, 2021
+*  M Jutras, J Shankar, **ML Tlachac**, “Demystifying the Role of Women in Data Science”, [Women+ in Data Science (WiDS) Central Massachusetts Conference](https://www.widscentralmass.org/), WPI, 2020
 
-[15] **ML Tlachac**, “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
 
-[14] **ML Tlachac**, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/DepreST-CAT2022.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+## Invited Talks
 
-[13] **ML Tlachac**, [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/StudentSADD2022.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+* [“Screening for Depression with Retrospectively Harvested Private versus Public Text”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPresFL2020.pdf), [Graduate Colloquium](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/AnnouncementFL2020.pdf), Florida State Online ACM Computer Club, 2020
+* “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
+* “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
 
-[12] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
 
-[11] **ML Tlachac**, [“Dissecting the *Paper* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
+## Campus Research and Teaching Talks
 
-[10] **ML Tlachac**, [“Dissecting the *Poster* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2022.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2022
+Annual Spring Teaching Summit: Teaching and Learning Demos, Bryant University
+* [“Romeo and Juliet Word Cloud”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/Tlachac_WordCloud_Summit23edited.pdf), 2023
 
-[9] **ML Tlachac**, [“Developing a Professional Poster: My Poster Evolution”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2021.pdf), Research Experience for Undergraduates (REU) Site Meeting, WPI Data Science REU, 2021
+Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University
+* “Text Mining for Shakespeare Plays”, Summer 2023
+* “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Score", Fall 2022
+* “Emutivo Digital Phenotype Datasets”, Summer 2022
 
-[8] Charlie Morse, Angela Rodriguez, Kerry-Anne Williams, **ML Tlachac**, Robbie Star, [“Student Mental Health”](https://www.wpi.edu/news/calendar/events/critical-conversations-student-mental-health-surviving-isolation-stress), Critical Conversations Series, 2021
+Data Science Research Experience for Undergraduates (REU), WPI
+* [“Dissecting the *Paper* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), 2022 
+* [“Dissecting the *Poster* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2022.pdf), 2022
+* [“Developing a Professional Poster: My Poster Evolution”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2021.pdf), 2021
+* "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", 2017
 
-[7] **ML Tlachac**, [“Screening for Depression with Retrospectively Harvested Private versus Public Text”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPresFL2020.pdf), [Graduate Colloquium](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/AnnouncementFL2020.pdf), Florida State Online ACM Computer Club, 2020
+Mathematics Retreat, UWEC
+* “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, 2015
+* “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, 2015
 
-[6] M Jutras, J Shankar, **ML Tlachac**, “Demystifying the Role of Women in Data Science”, Data Science Panel, [Women in Data Science (WiDS) Central Massachusetts Conference](https://www.widscentralmass.org/), WPI, 2020
-
-[5] **ML Tlachac**, “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
-
-[4] **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Research Experience for Undergraduates (REU) Graduate Research Colloquium, WPI Data Science REU, 2017
-
-[3] **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
-
-[2] D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, Mathematics Retreat, UWEC, 2015
-
-[1] D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
 
 ## Campus Research Presentations
 
