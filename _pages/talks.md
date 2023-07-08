@@ -52,8 +52,8 @@ Mathematics Retreat, UWEC
 ## Campus Research Presentations
 
 Celebrating Academic Excellence, Bryant University
-* “Text Reply Latencies for Mental Illness Screening”, 2022 (poster)
-* “Stereotype Threat Impact on Mobile Depression Screening”, 2022 (poster)
+* [“Text Reply Latencies for Mental Illness Screening”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPosterLatency2022-3.pdf), 2022 (poster)
+* [“Stereotype Threat Impact on Mobile Depression Screening”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPosterStereotypeThreat2022.pdf), 2022 (poster)
 * “Digital Biomarker Datasets for Mental Illness Screening”, 2022 (poster)
 
 Graduate Research Lightning Talks, Arts and Sciences Week, WPI 
