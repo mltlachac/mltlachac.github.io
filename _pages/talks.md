@@ -17,9 +17,9 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for co
 
 [15] **ML Tlachac**, “Bayesian Estimation instead of t-tests for Comparison of Depression Screening Scores”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
 
-[14] **ML Tlachac**, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+[14] **ML Tlachac**, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/DepreST-CAT2022.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 
-[13] **ML Tlachac**, “StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
+[13] **ML Tlachac**, [“StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/StudentSADD2022.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2022
 
 [12] **ML Tlachac**, “Emutivo Digital Phenotype Datasets”, Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bryant University, 2022
 
