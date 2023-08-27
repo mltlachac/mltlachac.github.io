@@ -29,6 +29,8 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ### Conference Papers
 
+* **ML Tlachac**, M Reisch, M Heinz, ["Mobile Communication Log Time Series to Detect Depressive Symptoms"](https://arinex.com.au/EMBC/pdf/full-paper_1289.pdf), 45th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2023
+
 * **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data), pp 2804-2813, 2022
 
 * A Shrestha, **ML Tlachac**, R Flores, E Rundensteiner, “BERT Variants for Depression Screening with Typed and Transcribed Responses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Computing for Well-being (WellComp), 2022
@@ -127,7 +129,7 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ### Journal Article
 
-* P Hart-Brinson, **ML Tlachac**, E Lepien ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
+* P Hart-Brinson, **ML Tlachac**, E Lepien, ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
 
 ### Abstracts
 
@@ -141,9 +143,11 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ### Conference Paper
 
+* M Alkhathlan, **ML Tlachac**, E Rundensteiner, ["Haptic Auditory Feedback for Enhanced Image Description: A Study of User Preferences and Performance"](https://link.springer.com/chapter/10.1007/978-3-031-42280-5_14), 19th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2023
+
 *  M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ["Improving Image Accessibility by Combining Haptic and Auditory Feedback"](https://dl.acm.org/doi/10.1145/3517428.3550362), 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS) Demos, 2022
 
-* M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), 2021
+* M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2021
 
 ---
 
