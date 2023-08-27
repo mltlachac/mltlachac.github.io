@@ -7,7 +7,11 @@ author_profile: true
 
 ## Conference Papers, Journal Articles, and Book Chapters
 
-[32] P Hart-Brinson, **ML Tlachac**, E Lepien ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
+[34] M Alkhathlan, **ML Tlachac**, E Rundensteiner, ["Haptic Auditory Feedback for Enhanced Image Description: A Study of User Preferences and Performance"](https://link.springer.com/chapter/10.1007/978-3-031-42280-5_14), 19th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2023
+
+[33] **ML Tlachac**, M Reisch, M Heinz, ["Mobile Communication Log Time Series to Detect Depressive Symptoms"](https://arinex.com.au/EMBC/pdf/full-paper_1289.pdf), 45th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2023
+
+[32] P Hart-Brinson, **ML Tlachac**, E Lepien, ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
 
 [31] **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data), pp 2804-2813, 2022
 
@@ -47,7 +51,7 @@ author_profile: true
 
 [13] **ML Tlachac**, K Dixon-Gordon, E Rundensteiner, ["Screening for Suicidal Ideation with Text Messages"](https://ieeexplore.ieee.org/abstract/document/9508486), 17th IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), 2021 (poster presentation)
 
-[12] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), 2021
+[12] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, [""Honestly I Never Really Thought About Adding a Description": Why Highly Engaged Tweets are Inaccessible"](https://link.springer.com/chapter/10.1007/978-3-030-85623-6_23), 18th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2021
 
 [11] **ML Tlachac**, A Sargent, E Toto, R Paffenroth, E Rundensteiner, ["Topological Data Analysis to Engineer Features from Audio Signals for Depression Detection"](https://ieeexplore.ieee.org/abstract/document/9356319), 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020 (10 min talk)
 
