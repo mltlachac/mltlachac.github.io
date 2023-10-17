@@ -23,12 +23,16 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for ad
 
 ## Invited Talks
 
+* “Digital Mental Health Screening with Text Logs”, Department of Computer Science and Statistics, the University of Rhode Island, 2023
 * [“Screening for Depression with Retrospectively Harvested Private versus Public Text”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPresFL2020.pdf), [Graduate Colloquium](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/AnnouncementFL2020.pdf), Florida State Online ACM Computer Club, 2020
 * “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
 * “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
 
 
 ## Campus Research and Teaching Talks
+
+Fall Faculty Institute Day, Bryant University
+* "Essays in the Age of ChatGPT", 2023
 
 Annual Spring Teaching Summit: Teaching and Learning Demos, Bryant University
 * [“Romeo and Juliet Word Cloud”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/Tlachac_WordCloud_Summit23edited.pdf), 2023
@@ -39,6 +43,7 @@ Triannual Cross-Disciplinary Research, Teaching, and Technology Symposium at Bry
 * “Emutivo Digital Phenotype Datasets”, Summer 2022
 
 Data Science Research Experience for Undergraduates (REU), WPI
+
 * [“Dissecting the *Paper* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/paperExamplesREU2022.pdf), 2022 
 * [“Dissecting the *Poster* Creation Process”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2022.pdf), 2022
 * [“Developing a Professional Poster: My Poster Evolution”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/posterExamplesREU2021.pdf), 2021
@@ -52,6 +57,8 @@ Mathematics Retreat, UWEC
 ## Campus Research Presentations
 
 Celebrating Academic Excellence, Bryant University
+* “Common Themes in the Experiences of Asexual College Students", 2023 (poster)
+* “Detecting Depressive Symptoms with Time Series of Call and Text Logs", 2023 (poster)
 * [“Text Reply Latencies for Mental Illness Screening”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPosterLatency2022-3.pdf), 2022 (poster)
 * [“Stereotype Threat Impact on Mobile Depression Screening”](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TlachacPosterStereotypeThreat2022.pdf), 2022 (poster)
 * “Digital Biomarker Datasets for Mental Illness Screening”, 2022 (poster)
