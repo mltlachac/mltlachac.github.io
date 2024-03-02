@@ -7,9 +7,11 @@ author_profile: true
 
 I am currently conducting research in digital mental illness screening. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
 
-## [EMUTIVO](https://emutivo.wpi.edu) Digital Mental Illness Screening Research
+## Digital Mental Illness Screening Research
 
 ### Journal Articles
+
+* AC Bryan, MV Heinz, AJ Salzhauer, GD Price, **ML Tlachac**, NC Jacobson, ["Behind the Screen: A Narrative Review on the Translational Capacity of Passive Sensing for Mental Health Assessment"](https://link.springer.com/article/10.1007/s44174-023-00150-4), Biomedical Materials & Devices, Springer, 2024
 
 * **ML Tlachac**, A Shrestha, M Shah, B Litterer, and E Rundensteiner, [“Automated Construction of Lexicons to Improve Depression Screening with Text Messages”](https://ieeexplore.ieee.org/document/9870799), IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on Advancing Biomedical Discovery & Healthcare Delivery Through Digital Technologies, 2022
 
@@ -28,6 +30,8 @@ I am currently conducting research in digital mental illness screening. Previous
 * R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_3), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 ### Conference Papers
+
+* R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
 
 * **ML Tlachac**, M Reisch, M Heinz, ["Mobile Communication Log Time Series to Detect Depressive Symptoms"](https://arinex.com.au/EMBC/pdf/full-paper_1289.pdf), 45th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2023
 
@@ -141,7 +145,7 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ## Image Accessibility Research
 
-### Conference Paper
+### Conference Papers
 
 * M Alkhathlan, **ML Tlachac**, E Rundensteiner, ["Haptic Auditory Feedback for Enhanced Image Description: A Study of User Preferences and Performance"](https://link.springer.com/chapter/10.1007/978-3-031-42280-5_14), 19th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2023
 
