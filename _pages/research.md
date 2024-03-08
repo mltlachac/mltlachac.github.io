@@ -11,6 +11,8 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ### Journal Articles
 
+* **ML Tlachac**, M Heinz, M Reisch, SS Ogden, ["Symptom Detection with Text Message Log Distributions for Holistic Depression and Anxiety Screening"](https://dl.acm.org/doi/10.1145/3643554), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 8 (1), 2024
+
 * AC Bryan, MV Heinz, AJ Salzhauer, GD Price, **ML Tlachac**, NC Jacobson, ["Behind the Screen: A Narrative Review on the Translational Capacity of Passive Sensing for Mental Health Assessment"](https://link.springer.com/article/10.1007/s44174-023-00150-4), Biomedical Materials & Devices, Springer, 2024
 
 * **ML Tlachac**, A Shrestha, M Shah, B Litterer, and E Rundensteiner, [“Automated Construction of Lexicons to Improve Depression Screening with Text Messages”](https://ieeexplore.ieee.org/document/9870799), IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on Advancing Biomedical Discovery & Healthcare Delivery Through Digital Technologies, 2022
