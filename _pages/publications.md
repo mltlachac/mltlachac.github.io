@@ -42,7 +42,7 @@ author_profile: true
 
 [22] **ML Tlachac**, M Reisch, M Heinz, ["Mobile Communication Log Time Series to Detect Depressive Symptoms"](https://arinex.com.au/EMBC/pdf/full-paper_1289.pdf), 45th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2023
 
-[21] **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data), pp 2804-2813, 2022
+[21] **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data) Workshop on Big Data Analytic in Healthcare, pp 2804-2813, 2022
 
 [20] M Alkhathlan, **ML Tlachac**, L Harrison, E Rundensteiner, ["Improving Image Accessibility by Combining Haptic and Auditory Feedback"](https://dl.acm.org/doi/10.1145/3517428.3550362), 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS) Demos, 2022
 
