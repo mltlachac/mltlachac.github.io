@@ -6,10 +6,24 @@ author_profile: true
 ---
 
 ## Instructor
-I teach Information Systems and Analytics (ISA) and Applied Analytics (AA) classes at Bryant University.
-* ISA 330: Programming for Data Science
-* AA 306: Data Mining for Effective Decision Making
-* AA 640: Data Visualization and Text Mining
+I teach Applied Analytics (AA), Information Systems and Analytics (ISA), and Data Science (DS) classes at Bryant University. I have experience teaching:
+* [AA 306: Data Mining for Effective Decision Making](https://catalog.bryant.edu/undergraduate/interdisciplinaryconcentrations/appliedanalyticsconcentration/)
+* [AA 640: Data Visualization and Text Mining](https://catalog.bryant.edu/graduate/cgs_ba/)
+* [ISA 330: Programming for Data Science](https://catalog.bryant.edu/undergraduate/collegeofbusiness/datascienceprogram/#degreetext)
+* [MSDS 620: Natural Language Processing](https://catalog.bryant.edu/graduate/business/programs/masterofscienceindatascience/#degreerequirementstext)
+
+## Training
+* First Year Teaching Techniques, Bryant University, 2024 
+* Equity-Minded Course Design, Bryant University, 2023 
+* [ACUE Effective Teaching Practices](https://cte.bryant.edu/acue/), Bryant University, 2022-2023 
+* [Project Advising 101: Early Career Faculty Workshop](https://www.wpi.edu/news/announcements/project-advising-101-early-career-faculty-workshop), WPI, 2021
+* [Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/), Northeastern University, 2020
+* [Fundamentals of Scientific Teaching and Pedagogy](https://canvas.wpi.edu/courses/8536/assignments/syllabus), WPI, 2020
+* [Leaders Engaging in Advocacy and Diversity Program](https://hub.wpi.edu/IE/Action/43), WPI, 2020
+* [Supporting WPI in Effective and Equitable Teamwork Squad](https://www.wpi.edu/academics/global-school/departments-programs-offices/sweet-center), WPI, 2019
+* [Student Support Network](https://www.wpi.edu/student-experience/getting-involved/leadership/peer-assistance), WPI, 2017
+* [Graduate Teaching Assistant Training Seminar](https://www.wpi.edu/academics/faculty/morgan-teaching-learning-center/graduate-resources), WPI, 2016
+* [Leadership Seminar Series](https://www.uwec.edu/activities-involvement-leadership/leadership/leadership-seminar-series/), UWEC, 2013
 
 ## Research Mentor
 My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Since 2018, I've mentored 35+ students on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI. The student teams I've mentored on this project include:
@@ -23,16 +37,3 @@ My first research mentoring experience was for [Math 380: Research Methods in Ma
 * Rimsha Kayastha, Joshua Lovering, Nina Taurich, “Early Mental Health Uncovering”, Research Experience for Undergraduates, Summer 2020
 * Adam Sargent, Joe Caltabiano, Myo Thant, Nicolas Pingal, Yosias Seifu, Yared Taye, [“Mental Health Sensing Using Machine Learning”](https://digital.wpi.edu/concern/student_works/x059c994q?locale=en), Undergraduate Computer Science and Math Major Qualifying Project, A-C terms, 2019-2020
 * Adonay Resom, Jerry Assan, Maurice Flannery, Yufei Gao, Yuxin Wu, [“Machine Learning for Mental Health Detection”](https://digital.wpi.edu/concern/student_works/9306t094r?locale=en), Undergraduate Computer Science Major Qualifying Project, A-C terms, 2018-2019
-
-## Training
-* [ACUE Effective Teaching Practices](https://cte.bryant.edu/acue/), Bryant University, 2022-2023 
-* [Project Advising 101: Early Career Faculty Workshop](https://www.wpi.edu/news/announcements/project-advising-101-early-career-faculty-workshop), WPI, 2021
-* [Reclaiming STEM Workshop](https://reclaimingstem.wardofcode.com/), UCLA, 2021
-* [Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/), Northeastern University, 2020
-* [Fundamentals of Scientific Teaching and Pedagogy](https://canvas.wpi.edu/courses/8536/assignments/syllabus), WPI, 2020
-* [Leaders Engaging in Advocacy and Diversity Program](https://hub.wpi.edu/IE/Action/43), WPI, 2020
-* [Supporting WPI in Effective and Equitable Teamwork Squad](https://www.wpi.edu/academics/global-school/departments-programs-offices/sweet-center), WPI, 2019
-* [Student Support Network Participant](https://www.wpi.edu/student-experience/getting-involved/leadership/peer-assistance), WPI, 2017
-* [Graduate Teaching Assistant Training Seminar](https://www.wpi.edu/academics/faculty/morgan-teaching-learning-center/graduate-resources), WPI, 2016
-* [Leadership Seminar Series](https://www.uwec.edu/activities-involvement-leadership/leadership/leadership-seminar-series/), UWEC, 2013
-
