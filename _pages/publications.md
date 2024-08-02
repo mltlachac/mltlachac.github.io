@@ -118,6 +118,8 @@ author_profile: true
 
 [1] R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
 
-## Instruction Guide
+## Other
+
+[2] DA Gannon, TA Hasseler, S Li, P Lombardi, A Papini, **ML Tlachac**, ["AI Chatbots in Education: A Comparative Analysis at Bryant University"](https://sr.ithaka.org/blog/ai-chatbots-in-education/), ITHAKA S+R Blog, 2024
 
 [1] **ML Tlachac**, ["A Guide for using Polyglot on Windows"](https://medium.com/@tlachacml/a-guide-for-using-polyglot-on-windows-8cbd8f97c7b0), Medium, 2020
