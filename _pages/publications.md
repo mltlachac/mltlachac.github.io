@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Journal Articles
+[11] Tingting Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
+
 [10] **ML Tlachac**, M Heinz, ["Mental Health and Mobile Communication Profiles of Crowdsourced Participants"](https://ieeexplore.ieee.org/document/10620607), IEEE Journal of Biomedical and Health Informatics (J-BHI), early access
 
 [9] **ML Tlachac**, M Heinz, M Reisch, SS Ogden, ["Symptom Detection with Text Message Log Distributions for Holistic Depression and Anxiety Screening"](https://dl.acm.org/doi/10.1145/3643554), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 8 (1), 2024
