@@ -11,6 +11,8 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ### Journal Articles
 
+* Tingting Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
+
 * **ML Tlachac**, M Heinz, ["Mental Health and Mobile Communication Profiles of Crowdsourced Participants"](https://ieeexplore.ieee.org/document/10620607), IEEE Journal of Biomedical and Health Informatics (J-BHI), early access
 
 * **ML Tlachac**, M Heinz, M Reisch, SS Ogden, ["Symptom Detection with Text Message Log Distributions for Holistic Depression and Anxiety Screening"](https://dl.acm.org/doi/10.1145/3643554), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 8 (1), 2024
@@ -35,7 +37,7 @@ I am currently conducting research in digital mental illness screening. Previous
 
 ### Conference Papers
 
-* R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
+* R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](https://ieeexplore.ieee.org/abstract/document/10386191), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
 
 * **ML Tlachac**, M Reisch, M Heinz, ["Mobile Communication Log Time Series to Detect Depressive Symptoms"](https://arinex.com.au/EMBC/pdf/full-paper_1289.pdf), 45th International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2023
 
