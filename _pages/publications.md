@@ -42,6 +42,10 @@ author_profile: true
 
 ## Conference Papers
 
+[26] R Lopez, A Shrestha, K Hickey, X Guo, **ML Tlachac**, S Liu, E Rundensteiner, [“Screening Students for Stress Using Fitbit Data”](https://ieeexplore.ieee.org/abstract/document/10825089), IEEE International Conference on Big Data (BigData) Workshop on Multi-Modal Medical Data Analysis, 2024
+
+[25] A Shrestha, **ML Tlachac**, R Flores, K Hickey, E Rundensteiner, [“Multi-task Learning with Pre-trained Language Models for Mental Illness Screening”](https://ieeexplore.ieee.org/abstract/document/10825698), IEEE International Conference on Big Data (BigData) Special Session on Machine Learning on Big Data, 2024
+
 [24] R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
 
 [23] M Alkhathlan, **ML Tlachac**, E Rundensteiner, ["Haptic Auditory Feedback for Enhanced Image Description: A Study of User Preferences and Performance"](https://link.springer.com/chapter/10.1007/978-3-031-42280-5_14), 19th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2023
