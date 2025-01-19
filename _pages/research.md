@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in digital mental illness screening. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
+I am currently conducting research in digital mental illness assessment. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
 
-## Digital Mental Illness Screening Research
+## Digital Mental Illness Assessment
 
 ### Journal Articles
 
@@ -38,6 +38,10 @@ I am currently conducting research in digital mental illness screening. Previous
 * R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_3), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 ### Conference Papers
+
+* R Lopez, A Shrestha, K Hickey, X Guo, **ML Tlachac**, S Liu, E Rundensteiner, [“Screening Students for Stress Using Fitbit Data”](https://ieeexplore.ieee.org/abstract/document/10825089), IEEE International Conference on Big Data (BigData) Workshop on Multi-Modal Medical Data Analysis, 2024
+
+* A Shrestha, **ML Tlachac**, R Flores, K Hickey, E Rundensteiner, [“Multi-task Learning with Pre-trained Language Models for Mental Illness Screening”](https://ieeexplore.ieee.org/abstract/document/10825698), IEEE International Conference on Big Data (BigData) Special Session on Machine Learning on Big Data, 2024
 
 * R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](https://ieeexplore.ieee.org/abstract/document/10386191), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
 
