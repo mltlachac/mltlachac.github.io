@@ -11,6 +11,8 @@ I am currently conducting research in digital mental illness assessment. Previou
 
 ### Journal Articles
 
+* **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, early access 
+
 * Tingting Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
 
 * R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, ["WavFace: A Multimodal Transformer-based Model for Depression Screening"](https://ieeexplore.ieee.org/document/10839309), IEEE Journal of Biomedical and Health Informatics (J-BHI), early access
@@ -49,7 +51,7 @@ I am currently conducting research in digital mental illness assessment. Previou
 
 * **ML Tlachac**, W Gerych, K Agrawal, B Litterer, N Jurovich, S Thatigotla, J Thadajarassiri, and E Rundensteiner, ["Text Generation to Aid Depression Detection: A Comparative Study of Conditional Sequence Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10020224), 2022 IEEE International Conference on Big Data (Big Data), pp 2804-2813, 2022
 
-* A Shrestha, **ML Tlachac**, R Flores, E Rundensteiner, “BERT Variants for Depression Screening with Typed and Transcribed Responses”, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Computing for Well-being (WellComp), 2022
+* A Shrestha, **ML Tlachac**, R Flores, E Rundensteiner, [“BERT Variants for Depression Screening with Typed and Transcribed Responses”](https://dl.acm.org/doi/abs/10.1145/3544793.3563405), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Computing for Well-being (WellComp), 2022
 
 * R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, [“Temporal Facial Features for Depression Screening”](https://ubicomp-mental-health.github.io/papers/2022/Flores-facial-features.pdf), ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) Mental Health: Sensing and Intervention, 2022
 
