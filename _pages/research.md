@@ -5,17 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in digital mental illness assessment. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
+I am currently conducting research in digital mental illness assessment and AI Chatbots in Education. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
 
 ## Digital Mental Illness Assessment
 
 ### Journal Articles
 
+* **ML Tlachac**, MV Heinz, AC Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
+
 * **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, early access 
 
-* Tingting Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
+* T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
 
-* R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, ["WavFace: A Multimodal Transformer-based Model for Depression Screening"](https://ieeexplore.ieee.org/document/10839309), IEEE Journal of Biomedical and Health Informatics (J-BHI), early access
+* R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, ["WavFace: A Multimodal Transformer-based Model for Depression Screening"](https://ieeexplore.ieee.org/document/10839309), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 29 (5), pp 3632-3641, 2025
 
 * **ML Tlachac**, M Heinz, ["Mental Health and Mobile Communication Profiles of Crowdsourced Participants"](https://ieeexplore.ieee.org/document/10620607), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 28 (12), pp 7683-7692, 2024
 
