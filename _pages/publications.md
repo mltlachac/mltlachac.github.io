@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Articles
 [14] **ML Tlachac**, MV Heinz, A Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
 
-[13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, early access 
+[13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6(3), 2025
 
 [12] T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
 
