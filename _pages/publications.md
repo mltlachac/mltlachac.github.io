@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Journal Articles
-[14] **ML Tlachac**, MV Heinz, A Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
+[15] **ML Tlachac**, MV Heinz, A Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
+
+[14] **ML Tlachac** , Tingting Zhao , Allison Papini , Terri Hasseler , Suhong Li , David Gannon & Philip Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
 
 [13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6(3), 2025
 
@@ -50,7 +52,7 @@ author_profile: true
 
 [25] A Shrestha, **ML Tlachac**, R Flores, K Hickey, E Rundensteiner, [“Multi-task Learning with Pre-trained Language Models for Mental Illness Screening”](https://ieeexplore.ieee.org/abstract/document/10825698), IEEE International Conference on Big Data (BigData) Special Session on Machine Learning on Big Data, 2024
 
-[24] R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
+[24] R Flores, A Shrestha, **ML Tlachac**, E Rundensteiner, [“Multi-Task Learning Using Facial Features for Mental Health Screening”](https://ieeexplore.ieee.org/document/10386191), IEEE International Conference on Big Data (BigData) Special Session on Healthcare Data, pp 4881-4890, 2023
 
 [23] M Alkhathlan, **ML Tlachac**, E Rundensteiner, ["Haptic Auditory Feedback for Enhanced Image Description: A Study of User Preferences and Performance"](https://link.springer.com/chapter/10.1007/978-3-031-42280-5_14), 19th International Conference promoted by the IFIP Technical Committee 13 on Human–Computer Interaction (INTERACT), Springer, 2023
 
