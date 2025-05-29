@@ -11,7 +11,11 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 ### Journal Articles
 
-* **ML Tlachac** , Tingting Zhao , Allison Papini , Terri Hasseler , Suhong Li , David Gannon, Philip Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
+* **ML Tlachac**, T Zhao, A Papini, TA Hasseler, S Li, DA Gannon, Philip Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
+
+### Blog Post
+
+* DA Gannon, TA Hasseler, S Li, P Lombardi, A Papini, **ML Tlachac**, ["AI Chatbots in Education: A Comparative Analysis at Bryant University"](https://sr.ithaka.org/blog/ai-chatbots-in-education/), ITHAKA S+R Blog, 2024
 
 ## Digital Mental Illness Assessment
 
