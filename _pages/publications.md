@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Articles
 [15] **ML Tlachac**, MV Heinz, A Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
 
-[14] **ML Tlachac** , Tingting Zhao , Allison Papini , Terri Hasseler , Suhong Li , David Gannon & Philip Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
+[14] **ML Tlachac**, T Zhao, A Papini, T Hasseler, S Li, D Gannon, Philip Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
 
 [13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6(3), 2025
 
