@@ -30,6 +30,8 @@ Please refer to [Publications](https://mltlachac.github.io/publications/) for ad
 
 
 ## Campus Research and Teaching Talks
+Honors Faculty Talk, Bryant University
+* ["Does your Phone Know if you are Depressed?"](https://github.com/mltlachac/mltlachac.github.io/blob/master/files/TLachac_Honors2025.pdf), Fall 2025
 
 Fall Faculty Institute Day, Bryant University
 * "Essays in the Age of ChatGPT", 2023
@@ -85,3 +87,4 @@ Annual Graduate Research Innovation Exchange, WPI
 
 Celebration of Excellence in Research and Creative Activity, UWEC
 *	[“Asexuality: An Emerging Sexual Orientation and Identity”](https://minds.wisconsin.edu/bitstream/handle/1793/74836/TlachacSp15.pdf?sequence=1&isAllowed=y), 2015 (poster)
+
