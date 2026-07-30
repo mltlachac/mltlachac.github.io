@@ -6,13 +6,16 @@ author_profile: true
 ---
 
 ## Journal Articles
-[15] **ML Tlachac**, MV Heinz, A Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
+
+[16] **ML Tlachac**, HK Elsbree, MV Heinz, ["Wearable Technology for Depression Assessment: A Scoping Review of Datasets"](https://ieeexplore.ieee.org/abstract/document/11569334), IEEE Transactions on Affective Computing, early access
+
+[15] **ML Tlachac**, MV Heinz, A Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, vol 16 (4), pp 2599-2619, 2025
 
 [14] **ML Tlachac**, T Zhao, A Papini, T Hasseler, S Li, D Gannon, P Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
 
 [13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6(3), 2025
 
-[12] T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
+[12] T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, vol 16 (2), 573-585, 2025
 
 [11] R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, ["WavFace: A Multimodal Transformer-based Model for Depression Screening"](https://ieeexplore.ieee.org/document/10839309), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 29 (5), pp 3632-3641, 2025
 
@@ -47,6 +50,10 @@ author_profile: true
 [1] **ML Tlachac**, E Rundensteiner, TS Troppy, K Beaulac, S Doron, K Barton, ["Predictive Modeling of Emerging Antibiotic Resistance Trends"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_18), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 348-366, 2019
 
 ## Conference Papers
+
+[28] R Lopez, A Shrestha, **ML Tlachac**, K Hickey, X Guo, S Liu, E Rundensteiner, ["Student Mental Health: Screening for Stress, Anxiety and Depression Using Fitbit Data"](https://www.scitepress.org/Papers/2026/146383/146383.pdf), 19th International Conference on Health Informatics (HealthInf), pp 820-828, 2026
+
+[27] **ML Tlachac**, SS Ogden, ["Student mental health screening with text message metadata"](https://ieeexplore.ieee.org/abstract/document/10903461), 23rd IEEE International Conference on Machine Learning and Applications (ICMLA), pp 1337-1342, 2024
 
 [26] R Lopez, A Shrestha, K Hickey, X Guo, **ML Tlachac**, S Liu, E Rundensteiner, [“Screening Students for Stress Using Fitbit Data”](https://ieeexplore.ieee.org/abstract/document/10825089), IEEE International Conference on Big Data (BigData) Workshop on Multi-Modal Medical Data Analysis, 2024
 
