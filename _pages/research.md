@@ -21,11 +21,13 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 ### Journal Articles
 
-* **ML Tlachac**, MV Heinz, AC Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, early access
+* **ML Tlachac**, HK Elsbree, MV Heinz, ["Wearable Technology for Depression Assessment: A Scoping Review of Datasets"](https://ieeexplore.ieee.org/abstract/document/11569334), IEEE Transactions on Affective Computing, early access
+
+* **ML Tlachac**, MV Heinz, AC Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, vol 16 (4), pp 2599-2619, 2025
 
 * **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, early access 
 
-* T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, early access
+* T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, vol 16 (2), 573-585, 2025
 
 * R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, ["WavFace: A Multimodal Transformer-based Model for Depression Screening"](https://ieeexplore.ieee.org/document/10839309), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 29 (5), pp 3632-3641, 2025
 
@@ -52,6 +54,10 @@ I am currently conducting research in digital mental illness assessment and AI C
 * R Flores, **ML Tlachac**, E Toto, E Rundensteiner, [“Transfer Learning for Depression Screening from Follow-up Clinical Interview Questions”](https://link.springer.com/chapter/10.1007/978-981-19-6153-3_3), Deep Learning Applications (DLAV), vol 4, Springer, 2022
 
 ### Conference Papers
+
+* R Lopez, A Shrestha, **ML Tlachac**, K Hickey, X Guo, S Liu, E Rundensteiner, ["Student Mental Health: Screening for Stress, Anxiety and Depression Using Fitbit Data"](https://www.scitepress.org/Papers/2026/146383/146383.pdf), 19th International Conference on Health Informatics (HealthInf), pp 820-828, 2026
+
+* **ML Tlachac**, SS Ogden, ["Student mental health screening with text message metadata"](https://ieeexplore.ieee.org/abstract/document/10903461), 23rd IEEE International Conference on Machine Learning and Applications (ICMLA), pp 1337-1342, 2024
 
 * R Lopez, A Shrestha, K Hickey, X Guo, **ML Tlachac**, S Liu, E Rundensteiner, [“Screening Students for Stress Using Fitbit Data”](https://ieeexplore.ieee.org/abstract/document/10825089), IEEE International Conference on Big Data (BigData) Workshop on Multi-Modal Medical Data Analysis, 2024
 
@@ -97,6 +103,7 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 * **ML Tlachac**, E Rundensteiner, "The 10 Most Important Features in Predicting Depression from Content of Retrospectively Harvested Text Messages", IEEE Conference on Biomedical and Health Informatics (BHI), 2019
 
+<!--
 ### Women in Data Science (WiDS) Central Massachusetts Abstracts
 
 * S Senn, **ML Tlachac**, R Flores, E Rundensteiner, “Ensembles of BERT for Depression Classification”, 2022
@@ -112,6 +119,7 @@ I am currently conducting research in digital mental illness assessment and AI C
 * M Reisch, **ML Tlachac**, “Stereotype Threat Study on Mobile Application”, 2021
 
 * R Kayastha, V Melican, C Bruneau, H Caouette, M Reisch, N Taurich, J Lovering, **ML Tlachac**, E Toto, E Rundensteiner, “Student Depression Dataset Collection”, 2021
+
 
 ### Presentations
 
@@ -152,7 +160,7 @@ I am currently conducting research in digital mental illness assessment and AI C
 * **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", 3MT, WPI, 2019
 
 * **ML Tlachac**, “Predicting Mental Health from Smartphone Text Messages”, GRIE, WPI, 2019
-
+-->
 ---
 
 ## Asexual Citizenship Research
@@ -191,12 +199,13 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 * **ML Tlachac**, "Sociodemographic Factors Influencing Household Energy Efficiency in the United States", Joint Mathematics Meetings, 2016
 
+<!--
 ### Presentations
 
 * **ML Tlachac**, “Sociodemographic Factors Influencing Household Energy Efficiency in the United States”, Colorado Energy Office, 2015
 
 * D Levin, L Paukner, **ML Tlachac**, “The Slippery Slope of the Polar Bears: A Mathematical Model of their Population”, Mathematics Retreat, UWEC, 2015
-
+-->
 ---
 
 ## Longitudinal Antibiogram Modeling Research
@@ -217,6 +226,7 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 * K Beaulac, **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, S Doron, "Utilization of  Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends", SHEA Spring 2018 Conference: Science Guiding Prevention, the Society for Healthcare Epidemiology of America, 2018 (best abstract, 5 awarded)
 
+<!--
 ### Presentations
 
 * **ML Tlachac**, “Utilization of Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends in Massachusetts”, Massachusetts Healthcare Associated Infection/Antibiotic Resistance Technical Advisory Group Meeting, 2018
@@ -224,7 +234,7 @@ I am currently conducting research in digital mental illness assessment and AI C
 * **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Graduate Colloquium, WPI Data Science REU, 2017
 
 * **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", GRIE, WPI, 2019
-
+-->
 ---
 
 ## Medical Named Entity Recognition Research
@@ -247,6 +257,8 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 * P Nugent, L Pudwell, M Riehl, **ML Tlachac**, "Pattern Avoidance on Increasing Binary Trees", Permutation Patterns Conference, 2014
 
+<!--
 ### Presentation
 
 * D Levin, L Pudwell, M Riehl, **ML Tlachac**, “Help the Robots Stack Boxes: Pattern Avoidance in Forests of Binary Trees”, Mathematics Retreat, UWEC, 2015
+-->
