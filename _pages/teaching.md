@@ -1,18 +1,21 @@
 ---
 layout: archive
 title: "Teaching and Mentoring Experience"
-permalink: /mentoring/
+permalink: /teaching/
 author_profile: true
 ---
 
 ## Instructor
-I teach Applied Analytics (AA), Information Systems and Analytics (ISA), and Data Science (DS) classes at Bryant University. I have experience teaching:
-* [AA 306: Data Mining for Effective Decision Making](https://catalog.bryant.edu/undergraduate/interdisciplinaryconcentrations/appliedanalyticsconcentration/)
+I have experience teaching Applied Analytics (AA), Information Systems and Analytics (ISA), Data Science (DS), and General Education (GEN) classes at Bryant University.
+* [AA 306: Data Mining for Effective Decision Making](https://catalog.bryant.edu/undergraduate/coursedescriptions/aa/)
+* [AA 490: Applied Analytics Capstone](https://catalog.bryant.edu/undergraduate/coursedescriptions/aa/)
 * [AA 640: Data Visualization and Text Mining](https://catalog.bryant.edu/graduate/cgs_ba/)
-* [ISA 330: Programming for Data Science](https://catalog.bryant.edu/undergraduate/collegeofbusiness/datascienceprogram/#degreetext)
+* [ISA 330: Programming for Data Science](https://catalog.bryant.edu/undergraduate/coursedescriptions/isa/)
 * [MSDS 620: Natural Language Processing](https://catalog.bryant.edu/graduate/business/programs/masterofscienceindatascience/#degreerequirementstext)
+* [MSDS 640: Data Science and AI Capstone](https://catalog.bryant.edu/graduate/business/programs/masterofscienceindatascience/#degreerequirementstext)
+* [GEN 100: Student Success at Bryant University](https://catalog.bryant.edu/undergraduate/coursedescriptions/gen/)
 
-## Training
+## Training 
 * First Year Teaching Techniques, Bryant University, 2024 
 * Equity-Minded Course Design, Bryant University, 2023 
 * [ACUE Effective Teaching Practices](https://cte.bryant.edu/acue/), Bryant University, 2022-2023 
@@ -26,7 +29,15 @@ I teach Applied Analytics (AA), Information Systems and Analytics (ISA), and Dat
 * [Leadership Seminar Series](https://www.uwec.edu/activities-involvement-leadership/leadership/leadership-seminar-series/), UWEC, 2013
 
 ## Research Mentor
-My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Since 2018, I've mentored 35+ students on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI. The student teams I've mentored on this project include:
+My first research mentoring experience was for [Math 380: Research Methods in Mathematics](https://minds.wisconsin.edu/bitstream/handle/1793/75501/Brushaber2Spr16.pdf?sequence=1&isAllowed=y) at UWEC in 2015. Between 2018 and 2022, I mentored 38 trainees (31 undergrads, 4 MS students, 2 post-MS, and 2 PhD students) on the [Emutivo](https://emutivo.wpi.edu/) research project at WPI. Since starting at Bryant University, I have:
+
+* advised 3 honors theses
+* served as editorial reviewer for 2 honors theses
+* supervised 5 undergraduate research assistants across 4 summers
+
+
+<!--
+The student teams I've mentored on this project include:
 * Katie Houskeeper, Dante Amicarella, Matthew Dzwil, "Named Entity Recognition", Undergraduate Independent Study, B-C terms, 2021-2022
 * Mairéad O’Neill, Nicholas Jurovich, Madeline Halley, Jyalu Wu, Brian Phillips, Lillian Garfinkel, “Deep Learning for Mental Health Screening using Smartphone Data”, Undergraduate Computer Science and Data Science Major Qualifying Project, A-C terms, 2021-2022
 * Miranda Reisch (grad), Saskia Senn (grad), Soumya Joshi (postgrad), "Depression Classification with Transcripts", Directed Research, Summer-D term, 2021-2022
@@ -37,3 +48,4 @@ My first research mentoring experience was for [Math 380: Research Methods in Ma
 * Rimsha Kayastha, Joshua Lovering, Nina Taurich, “Early Mental Health Uncovering”, Research Experience for Undergraduates, Summer 2020
 * Adam Sargent, Joe Caltabiano, Myo Thant, Nicolas Pingal, Yosias Seifu, Yared Taye, [“Mental Health Sensing Using Machine Learning”](https://digital.wpi.edu/concern/student_works/x059c994q?locale=en), Undergraduate Computer Science and Math Major Qualifying Project, A-C terms, 2019-2020
 * Adonay Resom, Jerry Assan, Maurice Flannery, Yufei Gao, Yuxin Wu, [“Machine Learning for Mental Health Detection”](https://digital.wpi.edu/concern/student_works/9306t094r?locale=en), Undergraduate Computer Science Major Qualifying Project, A-C terms, 2018-2019
+-->
