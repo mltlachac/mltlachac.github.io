@@ -5,7 +5,25 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in digital mental illness assessment and AI Chatbots in Education. Previously, I have also worked on projects including asexual citizenship, image accessibility, longitudinal antibiogram modeling, medical named entity recogntion, environmental sustainability, and combinatorics.
+I am currently conducting research in digital phenotyping for affective computing and AI chatbots in education. Previously, I have also worked on projects including asexual citizenship, digital mental health screening, image accessibility, longitudinal antibiogram modeling, medical named entity recognition, environmental sustainability, and combinatorics.
+
+## Digital Phenotyping for Affective Computing
+
+### Journal Articles
+
+* **ML Tlachac**, HK Elsbree, MV Heinz, ["Wearable Technology for Depression Assessment: A Scoping Review of Datasets"](https://ieeexplore.ieee.org/abstract/document/11569334), IEEE Transactions on Affective Computing, early access
+
+* **ML Tlachac**, MV Heinz, AC Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, vol 16 (4), pp 2599-2619, 2025
+
+* T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, vol 16 (2), 573-585, 2025
+
+* **ML Tlachac**, M Heinz, ["Mental Health and Mobile Communication Profiles of Crowdsourced Participants"](https://ieeexplore.ieee.org/document/10620607), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 28 (12), pp 7683-7692, 2024
+
+* AC Bryan, MV Heinz, AJ Salzhauer, GD Price, **ML Tlachac**, NC Jacobson, ["Behind the Screen: A Narrative Review on the Translational Capacity of Passive Sensing for Mental Health Assessment"](https://link.springer.com/article/10.1007/s44174-023-00150-4), Biomedical Materials & Devices, Springer, 2024
+
+* **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
+
+---
 
 ## AI Chatbots in Education
 
@@ -17,29 +35,33 @@ I am currently conducting research in digital mental illness assessment and AI C
 
 * DA Gannon, TA Hasseler, S Li, P Lombardi, A Papini, **ML Tlachac**, ["AI Chatbots in Education: A Comparative Analysis at Bryant University"](https://sr.ithaka.org/blog/ai-chatbots-in-education/), ITHAKA S+R Blog, 2024
 
-## Digital Mental Illness Assessment
+---
+
+## Asexual Citizenship Research
+
+### Journal Article
+
+* P Hart-Brinson, **ML Tlachac**, E Lepien, ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
+
+### Abstracts
+
+* P Hart-Brinson, **ML Tlachac**, E Lepien, “Paths to Asexual Citizenship Under Conditions of Compulsory Sexuality: An Intersectional Approach”, Midwest Sociological Society Annual Meeting, 2022
+
+* **ML Tlachac**, P Hart-Brinson, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015
+
+---
+
+## Digital Mental Health Screening (as part of [Emutivo](https://emutivo.wpi.edu/))
 
 ### Journal Articles
 
-* **ML Tlachac**, HK Elsbree, MV Heinz, ["Wearable Technology for Depression Assessment: A Scoping Review of Datasets"](https://ieeexplore.ieee.org/abstract/document/11569334), IEEE Transactions on Affective Computing, early access
-
-* **ML Tlachac**, MV Heinz, AC Bryan, A LaPreay, GL Dimas, T Zhao, NC Jacobson, SS Ogden, ["Datasets of Smartphone Modalities for Depression Assessment: A Scoping Review"](https://ieeexplore.ieee.org/document/10994386), IEEE Transactions on Affective Computing, vol 16 (4), pp 2599-2619, 2025
-
-* **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, early access 
-
-* T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, vol 16 (2), 573-585, 2025
+* **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6 (3), 2025
 
 * R Flores, **ML Tlachac**, A Shrestha, E Rundensteiner, ["WavFace: A Multimodal Transformer-based Model for Depression Screening"](https://ieeexplore.ieee.org/document/10839309), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 29 (5), pp 3632-3641, 2025
 
-* **ML Tlachac**, M Heinz, ["Mental Health and Mobile Communication Profiles of Crowdsourced Participants"](https://ieeexplore.ieee.org/document/10620607), IEEE Journal of Biomedical and Health Informatics (J-BHI), vol 28 (12), pp 7683-7692, 2024
-
 * **ML Tlachac**, M Heinz, M Reisch, SS Ogden, ["Symptom Detection with Text Message Log Distributions for Holistic Depression and Anxiety Screening"](https://dl.acm.org/doi/10.1145/3643554), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 8 (1), 2024
 
-* AC Bryan, MV Heinz, AJ Salzhauer, GD Price, **ML Tlachac**, NC Jacobson, ["Behind the Screen: A Narrative Review on the Translational Capacity of Passive Sensing for Mental Health Assessment"](https://link.springer.com/article/10.1007/s44174-023-00150-4), Biomedical Materials & Devices, Springer, 2024
-
 * **ML Tlachac**, A Shrestha, M Shah, B Litterer, and E Rundensteiner, [“Automated Construction of Lexicons to Improve Depression Screening with Text Messages”](https://ieeexplore.ieee.org/document/9870799), IEEE Journal of Biomedical and Health Informatics (J-BHI) Special Issue on Advancing Biomedical Discovery & Healthcare Delivery Through Digital Technologies, 2022
-
-* **ML Tlachac**, M Reisch, B Lewis, R Flores, L Harrison, and E Rundensteiner, [“Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation”](https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub), Healthcare Analytics, Elsevier, 2022
 
 * **ML Tlachac**, R Flores, M Reisch, K Housekeeper, E Rundensteiner, [“DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”](https://dl.acm.org/doi/10.1145/3534596), ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol 6 (2), 2022
 
@@ -163,19 +185,6 @@ I am currently conducting research in digital mental illness assessment and AI C
 -->
 ---
 
-## Asexual Citizenship Research
-
-### Journal Article
-
-* P Hart-Brinson, **ML Tlachac**, E Lepien, ["Contradictions in Experiences of Compulsory Sexuality and Pathways to Asexual Citizenship"](https://link.springer.com/article/10.1007/s12119-023-10110-1#citeas), Sexuality & Culture, Springer, 2023
-
-### Abstracts
-
-* P Hart-Brinson, **ML Tlachac**, E Lepien, “Paths to Asexual Citizenship Under Conditions of Compulsory Sexuality: An Intersectional Approach”, Midwest Sociological Society Annual Meeting, 2022
-
-* **ML Tlachac**, P Hart-Brinson, “Asexuality: An Emerging Sexual Orientation and Identity”, Celebration of Excellence in Research and Creative Activity, UWEC, 2015
-
----
 
 ## Image Accessibility Research
 
