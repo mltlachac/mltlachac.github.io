@@ -13,7 +13,7 @@ author_profile: true
 
 [14] **ML Tlachac**, T Zhao, A Papini, T Hasseler, S Li, D Gannon, P Lombardi, ["Artificial Intelligence Chatbot Perception and Use Across Campus"]( https://doi.org/10.1080/08874417.2025.2510422), Journal of Computer Information Systems, 2025
 
-[13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6(3), 2025
+[13] **ML Tlachac**, M Reisch (co-first author), A Shrestha, R Flores, E Toto, E Rundensteiner, [“Voice Recordings from Short Mobile Sessions versus Clinical Interviews for Mental Illness Screening: A Comparative Study with Deep Transfer Learning”](https://dl.acm.org/doi/10.1145/3716315), ACM Transactions on Computing for Healthcare, vol 6 (3), 2025
 
 [12] T Zhao, **ML Tlachac**, ["Bayesian Optimization with Tree Ensembles to Improve Depression Screening on Textual Datasets"](https://ieeexplore.ieee.org/document/10634776), IEEE Transactions on Affective Computing, vol 16 (2), 573-585, 2025
 
