@@ -53,7 +53,7 @@ author_profile: true
 
 [28] R Lopez, A Shrestha, **ML Tlachac**, K Hickey, X Guo, S Liu, E Rundensteiner, ["Student Mental Health: Screening for Stress, Anxiety and Depression Using Fitbit Data"](https://www.scitepress.org/Papers/2026/146383/146383.pdf), 19th International Conference on Health Informatics (HealthInf), pp 820-828, 2026
 
-[27] **ML Tlachac**, SS Ogden, ["Student mental health screening with text message metadata"](https://ieeexplore.ieee.org/abstract/document/10903461), 23rd IEEE International Conference on Machine Learning and Applications (ICMLA), pp 1337-1342, 2024
+[27] **ML Tlachac**, SS Ogden, ["Student mental health screening with text message metadata"](https://ieeexplore.ieee.org/abstract/document/10903461), 23rd IEEE International Conference on Machine Learning and Applications (ICMLA), pp 1337-1342, 2024 (15 min talk)
 
 [26] R Lopez, A Shrestha, K Hickey, X Guo, **ML Tlachac**, S Liu, E Rundensteiner, [“Screening Students for Stress Using Fitbit Data”](https://ieeexplore.ieee.org/abstract/document/10825089), IEEE International Conference on Big Data (BigData) Workshop on Multi-Modal Medical Data Analysis, 2024
 
