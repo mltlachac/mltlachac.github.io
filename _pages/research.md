@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently conducting research in digital phenotyping for affective computing and AI chatbots in education. Previously, I have also worked on projects including asexual citizenship, digital mental health screening, image accessibility, longitudinal antibiogram modeling, medical named entity recognition, environmental sustainability, and combinatorics.
+I am currently conducting research in digital phenotyping for affective computing and AI chatbots in education. Previously, I have also worked on projects including asexual citizenship, digital mental health screening, image accessibility, clinical informatics, environmental sustainability, and combinatorics.
 
 ## Digital Phenotyping for Affective Computing
 
@@ -217,7 +217,7 @@ I am currently conducting research in digital phenotyping for affective computin
 -->
 ---
 
-## Longitudinal Antibiogram Modeling Research
+## Clinical Informatics
 
 ### Conference Papers
 
@@ -231,6 +231,8 @@ I am currently conducting research in digital phenotyping for affective computin
 
 * **ML Tlachac**, E Rundensteiner, TS Troppy, K Beaulac, S Doron, K Barton, ["Predictive Modeling of Emerging Antibiotic Resistance Trends"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_18), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 348-366, 2019
 
+* S Wunnava, X Qin, T Kakar, **ML Tlachac**, X Kong, E Rundensteiner, S Sahoo, S De, ["Multi-layered Learning for Information Extraction from Adverse Drug Event Narratives"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_22), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 421-446, 2019
+
 ### Conference Abstract
 
 * K Beaulac, **ML Tlachac**, E Rundensteiner, K Barton, S Troppy, S Doron, "Utilization of  Predictive Modeling to Identify Emerging Statewide Antibiotic Resistance Trends", SHEA Spring 2018 Conference: Science Guiding Prevention, the Society for Healthcare Epidemiology of America, 2018 (best abstract, 5 awarded)
@@ -243,7 +245,7 @@ I am currently conducting research in digital phenotyping for affective computin
 * **ML Tlachac**, "Tackling the Antibiotic Resistant Bacteria Crisis Using Predictive Analytics", Graduate Colloquium, WPI Data Science REU, 2017
 
 * **ML Tlachac**, "Predicting Depression from Retrospectively Harvested Smartphone Data", GRIE, WPI, 2019
--->
+
 ---
 
 ## Medical Named Entity Recognition Research
@@ -251,7 +253,7 @@ I am currently conducting research in digital phenotyping for affective computin
 ### Book Chapter
 
 * S Wunnava, X Qin, T Kakar, **ML Tlachac**, X Kong, E Rundensteiner, S Sahoo, S De, ["Multi-layered Learning for Information Extraction from Adverse Drug Event Narratives"](https://link.springer.com/chapter/10.1007/978-3-030-29196-9_22), Biomedical Engineering Systems and Technologies, Communications in Computer and Information Science, Springer, vol 1024, pp 421-446, 2019
-
+-->
 ---
 
 ## Combinatorics Research
